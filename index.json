@@ -1,28 +1,7 @@
 {
-  "generated": "2026-11-13T18:24:50Z",
+  "generated": "2026-11-14T06:34:59Z",
   "repo": "superinference/demos",
   "demos": [
-    {
-      "id": "integrations-20261113-181419-g5-26",
-      "title": "Impeccable Button Restyle Demo",
-      "description": "Shows AMI invoking its built-in 'impeccable' design skill to restyle a plain HTML button into a polished, accessible component, producing a self-contained index.html.",
-      "date": "2026-11-13T18:15:13Z",
-      "categories": [
-        "Integrations"
-      ],
-      "scene": "integrations-20261113-181419-g5-26",
-      "provider": "anthropic-vertex",
-      "model": "claude-haiku-4-5",
-      "cols": 100,
-      "rows": 30,
-      "duration": 318.0,
-      "cast": "integrations-20261113-181419-g5-26/integrations-20261113-181419-g5-26.cast",
-      "gif": "integrations-20261113-181419-g5-26/integrations-20261113-181419-g5-26.gif",
-      "thumb": "integrations-20261113-181419-g5-26/integrations-20261113-181419-g5-26.png",
-      "castUrl": "https://raw.githubusercontent.com/superinference/demos/main/integrations-20261113-181419-g5-26/integrations-20261113-181419-g5-26.cast",
-      "gifUrl": "https://raw.githubusercontent.com/superinference/demos/main/integrations-20261113-181419-g5-26/integrations-20261113-181419-g5-26.gif",
-      "thumbUrl": "https://raw.githubusercontent.com/superinference/demos/main/integrations-20261113-181419-g5-26/integrations-20261113-181419-g5-26.png"
-    },
     {
       "id": "integrations-20261113-181414-g5-25",
       "title": "Impeccable Button Restyle Demo",
@@ -43,174 +22,6 @@
       "castUrl": "https://raw.githubusercontent.com/superinference/demos/main/integrations-20261113-181414-g5-25/integrations-20261113-181414-g5-25.cast",
       "gifUrl": "https://raw.githubusercontent.com/superinference/demos/main/integrations-20261113-181414-g5-25/integrations-20261113-181414-g5-25.gif",
       "thumbUrl": "https://raw.githubusercontent.com/superinference/demos/main/integrations-20261113-181414-g5-25/integrations-20261113-181414-g5-25.png"
-    },
-    {
-      "id": "integrations-20261113-181409-g5-29",
-      "title": "Nmap port scan via Kali",
-      "description": "Activates the pentest stance to access the Kali MCP server, runs an nmap scan against a single TCP port on a target host, and prints whether the port is open or closed.",
-      "date": "2026-11-13T18:14:30Z",
-      "categories": [
-        "Integrations"
-      ],
-      "scene": "integrations-20261113-181409-g5-29",
-      "provider": "anthropic-vertex",
-      "model": "claude-haiku-4-5",
-      "cols": 100,
-      "rows": 30,
-      "duration": 87.6,
-      "cast": "integrations-20261113-181409-g5-29/integrations-20261113-181409-g5-29.cast",
-      "gif": "integrations-20261113-181409-g5-29/integrations-20261113-181409-g5-29.gif",
-      "thumb": "integrations-20261113-181409-g5-29/integrations-20261113-181409-g5-29.png",
-      "castUrl": "https://raw.githubusercontent.com/superinference/demos/main/integrations-20261113-181409-g5-29/integrations-20261113-181409-g5-29.cast",
-      "gifUrl": "https://raw.githubusercontent.com/superinference/demos/main/integrations-20261113-181409-g5-29/integrations-20261113-181409-g5-29.gif",
-      "thumbUrl": "https://raw.githubusercontent.com/superinference/demos/main/integrations-20261113-181409-g5-29/integrations-20261113-181409-g5-29.png"
-    },
-    {
-      "id": "integrations-20261113-181409-g5-28",
-      "title": "Nmap port scan via Kali",
-      "description": "Activates the pentest stance to access the Kali MCP server, runs an nmap scan against a single TCP port on a target host, and prints whether the port is open or closed.",
-      "date": "2026-11-13T18:14:30Z",
-      "categories": [
-        "Integrations"
-      ],
-      "scene": "integrations-20261113-181409-g5-28",
-      "provider": "anthropic-vertex",
-      "model": "claude-opus-4-8",
-      "cols": 100,
-      "rows": 30,
-      "duration": 108.8,
-      "cast": "integrations-20261113-181409-g5-28/integrations-20261113-181409-g5-28.cast",
-      "gif": "integrations-20261113-181409-g5-28/integrations-20261113-181409-g5-28.gif",
-      "thumb": "integrations-20261113-181409-g5-28/integrations-20261113-181409-g5-28.png",
-      "castUrl": "https://raw.githubusercontent.com/superinference/demos/main/integrations-20261113-181409-g5-28/integrations-20261113-181409-g5-28.cast",
-      "gifUrl": "https://raw.githubusercontent.com/superinference/demos/main/integrations-20261113-181409-g5-28/integrations-20261113-181409-g5-28.gif",
-      "thumbUrl": "https://raw.githubusercontent.com/superinference/demos/main/integrations-20261113-181409-g5-28/integrations-20261113-181409-g5-28.png"
-    },
-    {
-      "id": "integrations-20261113-180612-g5-21",
-      "title": "Skill-Driven README Design",
-      "description": "Invokes the cognitive-doc-design skill to craft a polished README.md for a fictional CLI tool, demonstrating how AMI skills guide document structure and reduce cognitive load.",
-      "date": "2026-11-13T18:07:06Z",
-      "categories": [
-        "Integrations"
-      ],
-      "scene": "integrations-20261113-180612-g5-21",
-      "provider": "anthropic-vertex",
-      "model": "claude-sonnet-4-5",
-      "cols": 100,
-      "rows": 30,
-      "duration": 145.6,
-      "cast": "integrations-20261113-180612-g5-21/integrations-20261113-180612-g5-21.cast",
-      "gif": "integrations-20261113-180612-g5-21/integrations-20261113-180612-g5-21.gif",
-      "thumb": "integrations-20261113-180612-g5-21/integrations-20261113-180612-g5-21.png",
-      "castUrl": "https://raw.githubusercontent.com/superinference/demos/main/integrations-20261113-180612-g5-21/integrations-20261113-180612-g5-21.cast",
-      "gifUrl": "https://raw.githubusercontent.com/superinference/demos/main/integrations-20261113-180612-g5-21/integrations-20261113-180612-g5-21.gif",
-      "thumbUrl": "https://raw.githubusercontent.com/superinference/demos/main/integrations-20261113-180612-g5-21/integrations-20261113-180612-g5-21.png"
-    },
-    {
-      "id": "integrations-20261113-180558-g5-23",
-      "title": "Skill-Driven README Design",
-      "description": "Invokes the cognitive-doc-design skill to craft a polished, cognitive-load-optimized README.md for a fictional CLI tool, demonstrating how AMI skills guide document structure.",
-      "date": "2026-11-13T18:06:53Z",
-      "categories": [
-        "Integrations"
-      ],
-      "scene": "integrations-20261113-180558-g5-23",
-      "provider": "anthropic-vertex",
-      "model": "claude-sonnet-4-5",
-      "cols": 100,
-      "rows": 30,
-      "duration": 137.8,
-      "cast": "integrations-20261113-180558-g5-23/integrations-20261113-180558-g5-23.cast",
-      "gif": "integrations-20261113-180558-g5-23/integrations-20261113-180558-g5-23.gif",
-      "thumb": "integrations-20261113-180558-g5-23/integrations-20261113-180558-g5-23.png",
-      "castUrl": "https://raw.githubusercontent.com/superinference/demos/main/integrations-20261113-180558-g5-23/integrations-20261113-180558-g5-23.cast",
-      "gifUrl": "https://raw.githubusercontent.com/superinference/demos/main/integrations-20261113-180558-g5-23/integrations-20261113-180558-g5-23.gif",
-      "thumbUrl": "https://raw.githubusercontent.com/superinference/demos/main/integrations-20261113-180558-g5-23/integrations-20261113-180558-g5-23.png"
-    },
-    {
-      "id": "integrations-20261113-180544-g5-22",
-      "title": "Skill-Driven README Design",
-      "description": "Invokes the cognitive-doc-design skill to craft a polished README.md for a fictional CLI tool, demonstrating how AMI skills guide document structure for reduced cognitive load.",
-      "date": "2026-11-13T18:06:40Z",
-      "categories": [
-        "Integrations"
-      ],
-      "scene": "integrations-20261113-180544-g5-22",
-      "provider": "anthropic-vertex",
-      "model": "claude-sonnet-4-5",
-      "cols": 100,
-      "rows": 30,
-      "duration": 136.6,
-      "cast": "integrations-20261113-180544-g5-22/integrations-20261113-180544-g5-22.cast",
-      "gif": "integrations-20261113-180544-g5-22/integrations-20261113-180544-g5-22.gif",
-      "thumb": "integrations-20261113-180544-g5-22/integrations-20261113-180544-g5-22.png",
-      "castUrl": "https://raw.githubusercontent.com/superinference/demos/main/integrations-20261113-180544-g5-22/integrations-20261113-180544-g5-22.cast",
-      "gifUrl": "https://raw.githubusercontent.com/superinference/demos/main/integrations-20261113-180544-g5-22/integrations-20261113-180544-g5-22.gif",
-      "thumbUrl": "https://raw.githubusercontent.com/superinference/demos/main/integrations-20261113-180544-g5-22/integrations-20261113-180544-g5-22.png"
-    },
-    {
-      "id": "integrations-20261113-180514-g5-24",
-      "title": "Impeccable skill restyles a button",
-      "description": "Invokes the impeccable skill to critique a plain HTML button, then rewrites index.html with a polished, accessible design and prints a summary.",
-      "date": "2026-11-13T18:06:11Z",
-      "categories": [
-        "Integrations"
-      ],
-      "scene": "integrations-20261113-180514-g5-24",
-      "provider": "anthropic-vertex",
-      "model": "claude-opus-4-8",
-      "cols": 100,
-      "rows": 30,
-      "duration": 281.0,
-      "cast": "integrations-20261113-180514-g5-24/integrations-20261113-180514-g5-24.cast",
-      "gif": "integrations-20261113-180514-g5-24/integrations-20261113-180514-g5-24.gif",
-      "thumb": "integrations-20261113-180514-g5-24/integrations-20261113-180514-g5-24.png",
-      "castUrl": "https://raw.githubusercontent.com/superinference/demos/main/integrations-20261113-180514-g5-24/integrations-20261113-180514-g5-24.cast",
-      "gifUrl": "https://raw.githubusercontent.com/superinference/demos/main/integrations-20261113-180514-g5-24/integrations-20261113-180514-g5-24.gif",
-      "thumbUrl": "https://raw.githubusercontent.com/superinference/demos/main/integrations-20261113-180514-g5-24/integrations-20261113-180514-g5-24.png"
-    },
-    {
-      "id": "miscellaneous-20261113-180502-g5-20",
-      "title": "Solve a maze with pathfinding",
-      "description": "AMI generates a random maze using recursive backtracking, solves it with A* pathfinding, and prints the maze with the shortest path highlighted in green — demonstrating algorithm design, file creation, and visual terminal output.",
-      "date": "2026-11-13T18:06:02Z",
-      "categories": [
-        "Miscellaneous"
-      ],
-      "scene": "miscellaneous-20261113-180502-g5-20",
-      "provider": "anthropic-vertex",
-      "model": "claude-haiku-4-5",
-      "cols": 100,
-      "rows": 30,
-      "duration": 93.4,
-      "cast": "miscellaneous-20261113-180502-g5-20/miscellaneous-20261113-180502-g5-20.cast",
-      "gif": "miscellaneous-20261113-180502-g5-20/miscellaneous-20261113-180502-g5-20.gif",
-      "thumb": "miscellaneous-20261113-180502-g5-20/miscellaneous-20261113-180502-g5-20.png",
-      "castUrl": "https://raw.githubusercontent.com/superinference/demos/main/miscellaneous-20261113-180502-g5-20/miscellaneous-20261113-180502-g5-20.cast",
-      "gifUrl": "https://raw.githubusercontent.com/superinference/demos/main/miscellaneous-20261113-180502-g5-20/miscellaneous-20261113-180502-g5-20.gif",
-      "thumbUrl": "https://raw.githubusercontent.com/superinference/demos/main/miscellaneous-20261113-180502-g5-20/miscellaneous-20261113-180502-g5-20.png"
-    },
-    {
-      "id": "automation-20261113-175543-g5-15",
-      "title": "CSV Stats Command-Line Tool",
-      "description": "AMI builds a Python CLI that reads a CSV file, computes per-column statistics (count, min, max, mean, median, std dev) for all numeric columns, and prints a formatted summary table.",
-      "date": "2026-11-13T17:56:44Z",
-      "categories": [
-        "Automation"
-      ],
-      "scene": "automation-20261113-175543-g5-15",
-      "provider": "anthropic-vertex",
-      "model": "claude-haiku-4-5",
-      "cols": 100,
-      "rows": 30,
-      "duration": 144.5,
-      "cast": "automation-20261113-175543-g5-15/automation-20261113-175543-g5-15.cast",
-      "gif": "automation-20261113-175543-g5-15/automation-20261113-175543-g5-15.gif",
-      "thumb": "automation-20261113-175543-g5-15/automation-20261113-175543-g5-15.png",
-      "castUrl": "https://raw.githubusercontent.com/superinference/demos/main/automation-20261113-175543-g5-15/automation-20261113-175543-g5-15.cast",
-      "gifUrl": "https://raw.githubusercontent.com/superinference/demos/main/automation-20261113-175543-g5-15/automation-20261113-175543-g5-15.gif",
-      "thumbUrl": "https://raw.githubusercontent.com/superinference/demos/main/automation-20261113-175543-g5-15/automation-20261113-175543-g5-15.png"
     },
     {
       "id": "miscellaneous-20261113-175544-g5-18",
@@ -234,27 +45,6 @@
       "thumbUrl": "https://raw.githubusercontent.com/superinference/demos/main/miscellaneous-20261113-175544-g5-18/miscellaneous-20261113-175544-g5-18.png"
     },
     {
-      "id": "automation-20261113-175543-g5-16",
-      "title": "Multi-module CLI app from scratch",
-      "description": "AMI builds a modular unit-converter CLI split across several Python files, wires them together, and runs a conversion to print a readable result.",
-      "date": "2026-11-13T17:56:43Z",
-      "categories": [
-        "Automation"
-      ],
-      "scene": "automation-20261113-175543-g5-16",
-      "provider": "anthropic-vertex",
-      "model": "claude-sonnet-4-5",
-      "cols": 100,
-      "rows": 30,
-      "duration": 213.4,
-      "cast": "automation-20261113-175543-g5-16/automation-20261113-175543-g5-16.cast",
-      "gif": "automation-20261113-175543-g5-16/automation-20261113-175543-g5-16.gif",
-      "thumb": "automation-20261113-175543-g5-16/automation-20261113-175543-g5-16.png",
-      "castUrl": "https://raw.githubusercontent.com/superinference/demos/main/automation-20261113-175543-g5-16/automation-20261113-175543-g5-16.cast",
-      "gifUrl": "https://raw.githubusercontent.com/superinference/demos/main/automation-20261113-175543-g5-16/automation-20261113-175543-g5-16.gif",
-      "thumbUrl": "https://raw.githubusercontent.com/superinference/demos/main/automation-20261113-175543-g5-16/automation-20261113-175543-g5-16.png"
-    },
-    {
       "id": "miscellaneous-20261113-175544-g5-19",
       "title": "Quine Ouroboros in Three Languages",
       "description": "Builds a Python script that generates a Ruby script that generates a Bash script that regenerates the original Python source — a three-language quine cycle — then runs the full loop and diffs to prove the cycle is perfect.",
@@ -276,48 +66,6 @@
       "thumbUrl": "https://raw.githubusercontent.com/superinference/demos/main/miscellaneous-20261113-175544-g5-19/miscellaneous-20261113-175544-g5-19.png"
     },
     {
-      "id": "automation-20261113-175543-g5-17",
-      "title": "Git Init, Commit & Diff",
-      "description": "Initializes a git repo, creates files across two commits, then displays the log and a diff between them to verify history.",
-      "date": "2026-11-13T17:56:06Z",
-      "categories": [
-        "Automation"
-      ],
-      "scene": "automation-20261113-175543-g5-17",
-      "provider": "anthropic-vertex",
-      "model": "claude-haiku-4-5",
-      "cols": 100,
-      "rows": 30,
-      "duration": 245.3,
-      "cast": "automation-20261113-175543-g5-17/automation-20261113-175543-g5-17.cast",
-      "gif": "automation-20261113-175543-g5-17/automation-20261113-175543-g5-17.gif",
-      "thumb": "automation-20261113-175543-g5-17/automation-20261113-175543-g5-17.png",
-      "castUrl": "https://raw.githubusercontent.com/superinference/demos/main/automation-20261113-175543-g5-17/automation-20261113-175543-g5-17.cast",
-      "gifUrl": "https://raw.githubusercontent.com/superinference/demos/main/automation-20261113-175543-g5-17/automation-20261113-175543-g5-17.gif",
-      "thumbUrl": "https://raw.githubusercontent.com/superinference/demos/main/automation-20261113-175543-g5-17/automation-20261113-175543-g5-17.png"
-    },
-    {
-      "id": "algorithms-20261113-174939-g5-11",
-      "title": "Dynamic Programming Coin Change",
-      "description": "AMI implements the classic coin-change dynamic-programming algorithm in Python, solves a worked example, and prints a step-by-step breakdown showing the optimal coins needed to make change for a given amount.",
-      "date": "2026-11-13T17:50:34Z",
-      "categories": [
-        "Algorithms"
-      ],
-      "scene": "algorithms-20261113-174939-g5-11",
-      "provider": "anthropic-vertex",
-      "model": "claude-haiku-4-5",
-      "cols": 100,
-      "rows": 30,
-      "duration": 87.9,
-      "cast": "algorithms-20261113-174939-g5-11/algorithms-20261113-174939-g5-11.cast",
-      "gif": "algorithms-20261113-174939-g5-11/algorithms-20261113-174939-g5-11.gif",
-      "thumb": "algorithms-20261113-174939-g5-11/algorithms-20261113-174939-g5-11.png",
-      "castUrl": "https://raw.githubusercontent.com/superinference/demos/main/algorithms-20261113-174939-g5-11/algorithms-20261113-174939-g5-11.cast",
-      "gifUrl": "https://raw.githubusercontent.com/superinference/demos/main/algorithms-20261113-174939-g5-11/algorithms-20261113-174939-g5-11.gif",
-      "thumbUrl": "https://raw.githubusercontent.com/superinference/demos/main/algorithms-20261113-174939-g5-11/algorithms-20261113-174939-g5-11.png"
-    },
-    {
       "id": "algorithms-20261113-174939-g5-10",
       "title": "Graph Shortest Path Solver",
       "description": "AMI writes a Python program that implements Dijkstra's algorithm from scratch, builds a small weighted graph, and prints the shortest path with its total cost.",
@@ -337,48 +85,6 @@
       "castUrl": "https://raw.githubusercontent.com/superinference/demos/main/algorithms-20261113-174939-g5-10/algorithms-20261113-174939-g5-10.cast",
       "gifUrl": "https://raw.githubusercontent.com/superinference/demos/main/algorithms-20261113-174939-g5-10/algorithms-20261113-174939-g5-10.gif",
       "thumbUrl": "https://raw.githubusercontent.com/superinference/demos/main/algorithms-20261113-174939-g5-10/algorithms-20261113-174939-g5-10.png"
-    },
-    {
-      "id": "data-20261113-174939-g5-13",
-      "title": "Inline Dataset Statistics Summary",
-      "description": "AMI creates a Python script that computes mean, median, and top-3 values from a hardcoded dataset, then runs it to print a clean summary table to the terminal.",
-      "date": "2026-11-13T17:50:33Z",
-      "categories": [
-        "Data"
-      ],
-      "scene": "data-20261113-174939-g5-13",
-      "provider": "anthropic-vertex",
-      "model": "claude-haiku-4-5",
-      "cols": 100,
-      "rows": 30,
-      "duration": 153.5,
-      "cast": "data-20261113-174939-g5-13/data-20261113-174939-g5-13.cast",
-      "gif": "data-20261113-174939-g5-13/data-20261113-174939-g5-13.gif",
-      "thumb": "data-20261113-174939-g5-13/data-20261113-174939-g5-13.png",
-      "castUrl": "https://raw.githubusercontent.com/superinference/demos/main/data-20261113-174939-g5-13/data-20261113-174939-g5-13.cast",
-      "gifUrl": "https://raw.githubusercontent.com/superinference/demos/main/data-20261113-174939-g5-13/data-20261113-174939-g5-13.gif",
-      "thumbUrl": "https://raw.githubusercontent.com/superinference/demos/main/data-20261113-174939-g5-13/data-20261113-174939-g5-13.png"
-    },
-    {
-      "id": "data-20261113-174938-g5-14",
-      "title": "JSON to Human-Readable Report",
-      "description": "AMI writes a Python script that parses an inline JSON dataset of quarterly sales figures and prints a clean, formatted summary report to the terminal.",
-      "date": "2026-11-13T17:50:33Z",
-      "categories": [
-        "Data"
-      ],
-      "scene": "data-20261113-174938-g5-14",
-      "provider": "anthropic-vertex",
-      "model": "claude-sonnet-4-5",
-      "cols": 100,
-      "rows": 30,
-      "duration": 101.3,
-      "cast": "data-20261113-174938-g5-14/data-20261113-174938-g5-14.cast",
-      "gif": "data-20261113-174938-g5-14/data-20261113-174938-g5-14.gif",
-      "thumb": "data-20261113-174938-g5-14/data-20261113-174938-g5-14.png",
-      "castUrl": "https://raw.githubusercontent.com/superinference/demos/main/data-20261113-174938-g5-14/data-20261113-174938-g5-14.cast",
-      "gifUrl": "https://raw.githubusercontent.com/superinference/demos/main/data-20261113-174938-g5-14/data-20261113-174938-g5-14.gif",
-      "thumbUrl": "https://raw.githubusercontent.com/superinference/demos/main/data-20261113-174938-g5-14/data-20261113-174938-g5-14.png"
     },
     {
       "id": "data-20261113-174939-g5-12",
@@ -528,153 +234,6 @@
       "thumbUrl": "https://raw.githubusercontent.com/superinference/demos/main/refactoring-20261113-173528-g5-4/refactoring-20261113-173528-g5-4.png"
     },
     {
-      "id": "debugging-20261113-173528-g5-1",
-      "title": "Fix a crashing Python script",
-      "description": "AMI writes a Python script with a bug that crashes on edge-case input, diagnoses the traceback, fixes the root cause, and re-runs it to prove the fix works.",
-      "date": "2026-11-13T17:36:23Z",
-      "categories": [
-        "Debugging"
-      ],
-      "scene": "debugging-20261113-173528-g5-1",
-      "provider": "anthropic-vertex",
-      "model": "claude-haiku-4-5",
-      "cols": 100,
-      "rows": 30,
-      "duration": 155.7,
-      "cast": "debugging-20261113-173528-g5-1/debugging-20261113-173528-g5-1.cast",
-      "gif": "debugging-20261113-173528-g5-1/debugging-20261113-173528-g5-1.gif",
-      "thumb": "debugging-20261113-173528-g5-1/debugging-20261113-173528-g5-1.png",
-      "castUrl": "https://raw.githubusercontent.com/superinference/demos/main/debugging-20261113-173528-g5-1/debugging-20261113-173528-g5-1.cast",
-      "gifUrl": "https://raw.githubusercontent.com/superinference/demos/main/debugging-20261113-173528-g5-1/debugging-20261113-173528-g5-1.gif",
-      "thumbUrl": "https://raw.githubusercontent.com/superinference/demos/main/debugging-20261113-173528-g5-1/debugging-20261113-173528-g5-1.png"
-    },
-    {
-      "id": "debugging-20261113-173527-g5-0",
-      "title": "Fix Off-by-One Bug",
-      "description": "AMI finds and fixes a subtle off-by-one error in a Python binary search function, then re-runs the tests to prove the fix works.",
-      "date": "2026-11-13T17:36:22Z",
-      "categories": [
-        "Debugging"
-      ],
-      "scene": "debugging-20261113-173527-g5-0",
-      "provider": "anthropic-vertex",
-      "model": "claude-opus-4-8",
-      "cols": 100,
-      "rows": 30,
-      "duration": 174.6,
-      "cast": "debugging-20261113-173527-g5-0/debugging-20261113-173527-g5-0.cast",
-      "gif": "debugging-20261113-173527-g5-0/debugging-20261113-173527-g5-0.gif",
-      "thumb": "debugging-20261113-173527-g5-0/debugging-20261113-173527-g5-0.png",
-      "castUrl": "https://raw.githubusercontent.com/superinference/demos/main/debugging-20261113-173527-g5-0/debugging-20261113-173527-g5-0.cast",
-      "gifUrl": "https://raw.githubusercontent.com/superinference/demos/main/debugging-20261113-173527-g5-0/debugging-20261113-173527-g5-0.gif",
-      "thumbUrl": "https://raw.githubusercontent.com/superinference/demos/main/debugging-20261113-173527-g5-0/debugging-20261113-173527-g5-0.png"
-    },
-    {
-      "id": "integrations-20261113-163559-g4-25",
-      "title": "Impeccable skill restyles a button",
-      "description": "Invokes AMI's built-in 'impeccable' design skill to critique a plain HTML button, then rewrites index.html with a polished, accessible version and prints a summary.",
-      "date": "2026-11-13T16:36:55Z",
-      "categories": [
-        "Integrations"
-      ],
-      "scene": "integrations-20261113-163559-g4-25",
-      "provider": "anthropic-vertex",
-      "model": "claude-opus-4-8",
-      "cols": 100,
-      "rows": 30,
-      "duration": 317.9,
-      "cast": "integrations-20261113-163559-g4-25/integrations-20261113-163559-g4-25.cast",
-      "gif": "integrations-20261113-163559-g4-25/integrations-20261113-163559-g4-25.gif",
-      "thumb": "integrations-20261113-163559-g4-25/integrations-20261113-163559-g4-25.png",
-      "castUrl": "https://raw.githubusercontent.com/superinference/demos/main/integrations-20261113-163559-g4-25/integrations-20261113-163559-g4-25.cast",
-      "gifUrl": "https://raw.githubusercontent.com/superinference/demos/main/integrations-20261113-163559-g4-25/integrations-20261113-163559-g4-25.gif",
-      "thumbUrl": "https://raw.githubusercontent.com/superinference/demos/main/integrations-20261113-163559-g4-25/integrations-20261113-163559-g4-25.png"
-    },
-    {
-      "id": "integrations-20261113-163555-g4-26",
-      "title": "Impeccable skill restyles a button",
-      "description": "Invokes AMI's built-in 'impeccable' design skill to restyle a plain HTML button into a polished, accessible component, producing a self-contained index.html and a one-line summary.",
-      "date": "2026-11-13T16:36:49Z",
-      "categories": [
-        "Integrations"
-      ],
-      "scene": "integrations-20261113-163555-g4-26",
-      "provider": "anthropic-vertex",
-      "model": "claude-sonnet-4-5",
-      "cols": 100,
-      "rows": 30,
-      "duration": 279.2,
-      "cast": "integrations-20261113-163555-g4-26/integrations-20261113-163555-g4-26.cast",
-      "gif": "integrations-20261113-163555-g4-26/integrations-20261113-163555-g4-26.gif",
-      "thumb": "integrations-20261113-163555-g4-26/integrations-20261113-163555-g4-26.png",
-      "castUrl": "https://raw.githubusercontent.com/superinference/demos/main/integrations-20261113-163555-g4-26/integrations-20261113-163555-g4-26.cast",
-      "gifUrl": "https://raw.githubusercontent.com/superinference/demos/main/integrations-20261113-163555-g4-26/integrations-20261113-163555-g4-26.gif",
-      "thumbUrl": "https://raw.githubusercontent.com/superinference/demos/main/integrations-20261113-163555-g4-26/integrations-20261113-163555-g4-26.png"
-    },
-    {
-      "id": "integrations-20261113-163551-g4-29",
-      "title": "Nmap port scan via Kali",
-      "description": "Activates the pentest stance to access the Kali MCP server, runs an nmap scan against a single TCP port on a target host, and prints whether the port is open or closed.",
-      "date": "2026-11-13T16:36:12Z",
-      "categories": [
-        "Integrations"
-      ],
-      "scene": "integrations-20261113-163551-g4-29",
-      "provider": "anthropic-vertex",
-      "model": "claude-opus-4-8",
-      "cols": 100,
-      "rows": 30,
-      "duration": 108.6,
-      "cast": "integrations-20261113-163551-g4-29/integrations-20261113-163551-g4-29.cast",
-      "gif": "integrations-20261113-163551-g4-29/integrations-20261113-163551-g4-29.gif",
-      "thumb": "integrations-20261113-163551-g4-29/integrations-20261113-163551-g4-29.png",
-      "castUrl": "https://raw.githubusercontent.com/superinference/demos/main/integrations-20261113-163551-g4-29/integrations-20261113-163551-g4-29.cast",
-      "gifUrl": "https://raw.githubusercontent.com/superinference/demos/main/integrations-20261113-163551-g4-29/integrations-20261113-163551-g4-29.gif",
-      "thumbUrl": "https://raw.githubusercontent.com/superinference/demos/main/integrations-20261113-163551-g4-29/integrations-20261113-163551-g4-29.png"
-    },
-    {
-      "id": "integrations-20261113-163551-g4-27",
-      "title": "Nmap port scan via Kali",
-      "description": "Activates the pentest stance to access the Kali MCP server, runs an nmap scan against a single TCP port on a LAN host, and prints whether the port is open or closed.",
-      "date": "2026-11-13T16:36:12Z",
-      "categories": [
-        "Integrations"
-      ],
-      "scene": "integrations-20261113-163551-g4-27",
-      "provider": "anthropic-vertex",
-      "model": "claude-opus-4-8",
-      "cols": 100,
-      "rows": 30,
-      "duration": 107.8,
-      "cast": "integrations-20261113-163551-g4-27/integrations-20261113-163551-g4-27.cast",
-      "gif": "integrations-20261113-163551-g4-27/integrations-20261113-163551-g4-27.gif",
-      "thumb": "integrations-20261113-163551-g4-27/integrations-20261113-163551-g4-27.png",
-      "castUrl": "https://raw.githubusercontent.com/superinference/demos/main/integrations-20261113-163551-g4-27/integrations-20261113-163551-g4-27.cast",
-      "gifUrl": "https://raw.githubusercontent.com/superinference/demos/main/integrations-20261113-163551-g4-27/integrations-20261113-163551-g4-27.gif",
-      "thumbUrl": "https://raw.githubusercontent.com/superinference/demos/main/integrations-20261113-163551-g4-27/integrations-20261113-163551-g4-27.png"
-    },
-    {
-      "id": "integrations-20261113-162727-g4-22",
-      "title": "Skill-Driven README Design",
-      "description": "Invokes the cognitive-doc-design skill to craft a polished README.md for a fictional CLI tool, demonstrating how AMI skills guide document structure for reduced cognitive load.",
-      "date": "2026-11-13T16:28:21Z",
-      "categories": [
-        "Integrations"
-      ],
-      "scene": "integrations-20261113-162727-g4-22",
-      "provider": "anthropic-vertex",
-      "model": "claude-haiku-4-5",
-      "cols": 100,
-      "rows": 30,
-      "duration": 109.1,
-      "cast": "integrations-20261113-162727-g4-22/integrations-20261113-162727-g4-22.cast",
-      "gif": "integrations-20261113-162727-g4-22/integrations-20261113-162727-g4-22.gif",
-      "thumb": "integrations-20261113-162727-g4-22/integrations-20261113-162727-g4-22.png",
-      "castUrl": "https://raw.githubusercontent.com/superinference/demos/main/integrations-20261113-162727-g4-22/integrations-20261113-162727-g4-22.cast",
-      "gifUrl": "https://raw.githubusercontent.com/superinference/demos/main/integrations-20261113-162727-g4-22/integrations-20261113-162727-g4-22.gif",
-      "thumbUrl": "https://raw.githubusercontent.com/superinference/demos/main/integrations-20261113-162727-g4-22/integrations-20261113-162727-g4-22.png"
-    },
-    {
       "id": "integrations-20261113-162713-g4-23",
       "title": "Skill-Driven README Design",
       "description": "Invokes the cognitive-doc-design skill to craft a polished README.md for a fictional CLI tool, demonstrating how AMI skills guide document structure for reduced cognitive load.",
@@ -694,27 +253,6 @@
       "castUrl": "https://raw.githubusercontent.com/superinference/demos/main/integrations-20261113-162713-g4-23/integrations-20261113-162713-g4-23.cast",
       "gifUrl": "https://raw.githubusercontent.com/superinference/demos/main/integrations-20261113-162713-g4-23/integrations-20261113-162713-g4-23.gif",
       "thumbUrl": "https://raw.githubusercontent.com/superinference/demos/main/integrations-20261113-162713-g4-23/integrations-20261113-162713-g4-23.png"
-    },
-    {
-      "id": "integrations-20261113-162729-g4-21",
-      "title": "Skill-Driven README Authoring",
-      "description": "Invokes the cognitive-doc-design skill to apply its documentation principles, then writes a polished README.md for a small CLI tool—demonstrating how AMI skills guide artifact creation.",
-      "date": "2026-11-13T16:27:51Z",
-      "categories": [
-        "Integrations"
-      ],
-      "scene": "integrations-20261113-162729-g4-21",
-      "provider": "anthropic-vertex",
-      "model": "claude-sonnet-4-5",
-      "cols": 100,
-      "rows": 30,
-      "duration": 136.4,
-      "cast": "integrations-20261113-162729-g4-21/integrations-20261113-162729-g4-21.cast",
-      "gif": "integrations-20261113-162729-g4-21/integrations-20261113-162729-g4-21.gif",
-      "thumb": "integrations-20261113-162729-g4-21/integrations-20261113-162729-g4-21.png",
-      "castUrl": "https://raw.githubusercontent.com/superinference/demos/main/integrations-20261113-162729-g4-21/integrations-20261113-162729-g4-21.cast",
-      "gifUrl": "https://raw.githubusercontent.com/superinference/demos/main/integrations-20261113-162729-g4-21/integrations-20261113-162729-g4-21.gif",
-      "thumbUrl": "https://raw.githubusercontent.com/superinference/demos/main/integrations-20261113-162729-g4-21/integrations-20261113-162729-g4-21.png"
     },
     {
       "id": "miscellaneous-20261113-162649-g4-20",
@@ -801,27 +339,6 @@
       "thumbUrl": "https://raw.githubusercontent.com/superinference/demos/main/automation-20261113-161826-g4-15/automation-20261113-161826-g4-15.png"
     },
     {
-      "id": "automation-20261113-161827-g4-17",
-      "title": "Git Init, Commit & Diff",
-      "description": "Initializes a git repo, creates files across two commits, then displays the log and a diff between them to verify history.",
-      "date": "2026-11-13T16:18:49Z",
-      "categories": [
-        "Automation"
-      ],
-      "scene": "automation-20261113-161827-g4-17",
-      "provider": "anthropic-vertex",
-      "model": "claude-sonnet-4-5",
-      "cols": 100,
-      "rows": 30,
-      "duration": 178.9,
-      "cast": "automation-20261113-161827-g4-17/automation-20261113-161827-g4-17.cast",
-      "gif": "automation-20261113-161827-g4-17/automation-20261113-161827-g4-17.gif",
-      "thumb": "automation-20261113-161827-g4-17/automation-20261113-161827-g4-17.png",
-      "castUrl": "https://raw.githubusercontent.com/superinference/demos/main/automation-20261113-161827-g4-17/automation-20261113-161827-g4-17.cast",
-      "gifUrl": "https://raw.githubusercontent.com/superinference/demos/main/automation-20261113-161827-g4-17/automation-20261113-161827-g4-17.gif",
-      "thumbUrl": "https://raw.githubusercontent.com/superinference/demos/main/automation-20261113-161827-g4-17/automation-20261113-161827-g4-17.png"
-    },
-    {
       "id": "data-20261113-161225-g4-14",
       "title": "JSON to human-readable report",
       "description": "AMI writes a Python script that parses an inline JSON dataset of quarterly sales figures and prints a clean, formatted summary report to the terminal.",
@@ -841,69 +358,6 @@
       "castUrl": "https://raw.githubusercontent.com/superinference/demos/main/data-20261113-161225-g4-14/data-20261113-161225-g4-14.cast",
       "gifUrl": "https://raw.githubusercontent.com/superinference/demos/main/data-20261113-161225-g4-14/data-20261113-161225-g4-14.gif",
       "thumbUrl": "https://raw.githubusercontent.com/superinference/demos/main/data-20261113-161225-g4-14/data-20261113-161225-g4-14.png"
-    },
-    {
-      "id": "data-20261113-161225-g4-12",
-      "title": "CSV to aligned summary table",
-      "description": "Parses an inline CSV dataset of sales records, computes per-category totals and averages, and prints a neatly column-aligned summary table to the terminal.",
-      "date": "2026-11-13T16:13:21Z",
-      "categories": [
-        "Data"
-      ],
-      "scene": "data-20261113-161225-g4-12",
-      "provider": "anthropic-vertex",
-      "model": "claude-haiku-4-5",
-      "cols": 100,
-      "rows": 30,
-      "duration": 89.5,
-      "cast": "data-20261113-161225-g4-12/data-20261113-161225-g4-12.cast",
-      "gif": "data-20261113-161225-g4-12/data-20261113-161225-g4-12.gif",
-      "thumb": "data-20261113-161225-g4-12/data-20261113-161225-g4-12.png",
-      "castUrl": "https://raw.githubusercontent.com/superinference/demos/main/data-20261113-161225-g4-12/data-20261113-161225-g4-12.cast",
-      "gifUrl": "https://raw.githubusercontent.com/superinference/demos/main/data-20261113-161225-g4-12/data-20261113-161225-g4-12.gif",
-      "thumbUrl": "https://raw.githubusercontent.com/superinference/demos/main/data-20261113-161225-g4-12/data-20261113-161225-g4-12.png"
-    },
-    {
-      "id": "algorithms-20261113-161226-g4-10",
-      "title": "Graph Shortest Path Solver",
-      "description": "AMI writes a Python program that implements Dijkstra's algorithm from scratch, builds a small weighted graph, and prints the shortest path with its total cost.",
-      "date": "2026-11-13T16:13:21Z",
-      "categories": [
-        "Algorithms"
-      ],
-      "scene": "algorithms-20261113-161226-g4-10",
-      "provider": "anthropic-vertex",
-      "model": "claude-haiku-4-5",
-      "cols": 100,
-      "rows": 30,
-      "duration": 155.4,
-      "cast": "algorithms-20261113-161226-g4-10/algorithms-20261113-161226-g4-10.cast",
-      "gif": "algorithms-20261113-161226-g4-10/algorithms-20261113-161226-g4-10.gif",
-      "thumb": "algorithms-20261113-161226-g4-10/algorithms-20261113-161226-g4-10.png",
-      "castUrl": "https://raw.githubusercontent.com/superinference/demos/main/algorithms-20261113-161226-g4-10/algorithms-20261113-161226-g4-10.cast",
-      "gifUrl": "https://raw.githubusercontent.com/superinference/demos/main/algorithms-20261113-161226-g4-10/algorithms-20261113-161226-g4-10.gif",
-      "thumbUrl": "https://raw.githubusercontent.com/superinference/demos/main/algorithms-20261113-161226-g4-10/algorithms-20261113-161226-g4-10.png"
-    },
-    {
-      "id": "algorithms-20261113-161225-g4-11",
-      "title": "Dynamic Programming Coin Change",
-      "description": "AMI implements the classic coin-change dynamic-programming algorithm in Python, solves a worked example, and prints a step-by-step breakdown showing the optimal coins needed to make change for a given amount.",
-      "date": "2026-11-13T16:13:21Z",
-      "categories": [
-        "Algorithms"
-      ],
-      "scene": "algorithms-20261113-161225-g4-11",
-      "provider": "anthropic-vertex",
-      "model": "claude-haiku-4-5",
-      "cols": 100,
-      "rows": 30,
-      "duration": 91.0,
-      "cast": "algorithms-20261113-161225-g4-11/algorithms-20261113-161225-g4-11.cast",
-      "gif": "algorithms-20261113-161225-g4-11/algorithms-20261113-161225-g4-11.gif",
-      "thumb": "algorithms-20261113-161225-g4-11/algorithms-20261113-161225-g4-11.png",
-      "castUrl": "https://raw.githubusercontent.com/superinference/demos/main/algorithms-20261113-161225-g4-11/algorithms-20261113-161225-g4-11.cast",
-      "gifUrl": "https://raw.githubusercontent.com/superinference/demos/main/algorithms-20261113-161225-g4-11/algorithms-20261113-161225-g4-11.gif",
-      "thumbUrl": "https://raw.githubusercontent.com/superinference/demos/main/algorithms-20261113-161225-g4-11/algorithms-20261113-161225-g4-11.png"
     },
     {
       "id": "data-20261113-161225-g4-13",
@@ -948,69 +402,6 @@
       "thumbUrl": "https://raw.githubusercontent.com/superinference/demos/main/testing-20261113-160333-g4-7/testing-20261113-160333-g4-7.png"
     },
     {
-      "id": "refactoring-20261113-160333-g4-5",
-      "title": "Refactor duplicated logic into helper",
-      "description": "Creates a file with duplicated conversion logic across multiple functions, refactors it into a single reusable helper, then runs both versions and asserts outputs match to prove correctness.",
-      "date": "2026-11-13T16:04:29Z",
-      "categories": [
-        "Refactoring"
-      ],
-      "scene": "refactoring-20261113-160333-g4-5",
-      "provider": "anthropic-vertex",
-      "model": "claude-haiku-4-5",
-      "cols": 100,
-      "rows": 30,
-      "duration": 169.5,
-      "cast": "refactoring-20261113-160333-g4-5/refactoring-20261113-160333-g4-5.cast",
-      "gif": "refactoring-20261113-160333-g4-5/refactoring-20261113-160333-g4-5.gif",
-      "thumb": "refactoring-20261113-160333-g4-5/refactoring-20261113-160333-g4-5.png",
-      "castUrl": "https://raw.githubusercontent.com/superinference/demos/main/refactoring-20261113-160333-g4-5/refactoring-20261113-160333-g4-5.cast",
-      "gifUrl": "https://raw.githubusercontent.com/superinference/demos/main/refactoring-20261113-160333-g4-5/refactoring-20261113-160333-g4-5.gif",
-      "thumbUrl": "https://raw.githubusercontent.com/superinference/demos/main/refactoring-20261113-160333-g4-5/refactoring-20261113-160333-g4-5.png"
-    },
-    {
-      "id": "testing-20261113-160333-g4-8",
-      "title": "Parametrized tests for a utility",
-      "description": "AMI writes a string utility module and a parametrized pytest suite from scratch, then runs the tests and prints a clear pass/fail summary.",
-      "date": "2026-11-13T16:04:28Z",
-      "categories": [
-        "Testing"
-      ],
-      "scene": "testing-20261113-160333-g4-8",
-      "provider": "anthropic-vertex",
-      "model": "claude-haiku-4-5",
-      "cols": 100,
-      "rows": 30,
-      "duration": 243.7,
-      "cast": "testing-20261113-160333-g4-8/testing-20261113-160333-g4-8.cast",
-      "gif": "testing-20261113-160333-g4-8/testing-20261113-160333-g4-8.gif",
-      "thumb": "testing-20261113-160333-g4-8/testing-20261113-160333-g4-8.png",
-      "castUrl": "https://raw.githubusercontent.com/superinference/demos/main/testing-20261113-160333-g4-8/testing-20261113-160333-g4-8.cast",
-      "gifUrl": "https://raw.githubusercontent.com/superinference/demos/main/testing-20261113-160333-g4-8/testing-20261113-160333-g4-8.gif",
-      "thumbUrl": "https://raw.githubusercontent.com/superinference/demos/main/testing-20261113-160333-g4-8/testing-20261113-160333-g4-8.png"
-    },
-    {
-      "id": "algorithms-20261113-160333-g4-9",
-      "title": "Quicksort from scratch",
-      "description": "AMI writes a quicksort implementation in Python, generates a random dataset, sorts it, and prints a before/after comparison to prove correctness.",
-      "date": "2026-11-13T16:04:28Z",
-      "categories": [
-        "Algorithms"
-      ],
-      "scene": "algorithms-20261113-160333-g4-9",
-      "provider": "anthropic-vertex",
-      "model": "claude-haiku-4-5",
-      "cols": 100,
-      "rows": 30,
-      "duration": 84.9,
-      "cast": "algorithms-20261113-160333-g4-9/algorithms-20261113-160333-g4-9.cast",
-      "gif": "algorithms-20261113-160333-g4-9/algorithms-20261113-160333-g4-9.gif",
-      "thumb": "algorithms-20261113-160333-g4-9/algorithms-20261113-160333-g4-9.png",
-      "castUrl": "https://raw.githubusercontent.com/superinference/demos/main/algorithms-20261113-160333-g4-9/algorithms-20261113-160333-g4-9.cast",
-      "gifUrl": "https://raw.githubusercontent.com/superinference/demos/main/algorithms-20261113-160333-g4-9/algorithms-20261113-160333-g4-9.gif",
-      "thumbUrl": "https://raw.githubusercontent.com/superinference/demos/main/algorithms-20261113-160333-g4-9/algorithms-20261113-160333-g4-9.png"
-    },
-    {
       "id": "refactoring-20261113-155340-g4-3",
       "title": "Refactor repetitive function into helpers",
       "description": "AMI takes a single Python file with a long, repetitive function full of duplicated logic, refactors it into clean small helpers, runs tests to prove behavior is identical, and prints a before/after summary.",
@@ -1053,90 +444,6 @@
       "thumbUrl": "https://raw.githubusercontent.com/superinference/demos/main/refactoring-20261113-155340-g4-4/refactoring-20261113-155340-g4-4.png"
     },
     {
-      "id": "debugging-20261113-155339-g4-0",
-      "title": "Fix off-by-one bug in Python",
-      "description": "AMI finds and fixes a subtle off-by-one error in a Python function, then re-runs the tests to prove the fix works.",
-      "date": "2026-11-13T15:54:41Z",
-      "categories": [
-        "Debugging"
-      ],
-      "scene": "debugging-20261113-155339-g4-0",
-      "provider": "anthropic-vertex",
-      "model": "claude-opus-4-8",
-      "cols": 100,
-      "rows": 30,
-      "duration": 142.0,
-      "cast": "debugging-20261113-155339-g4-0/debugging-20261113-155339-g4-0.cast",
-      "gif": "debugging-20261113-155339-g4-0/debugging-20261113-155339-g4-0.gif",
-      "thumb": "debugging-20261113-155339-g4-0/debugging-20261113-155339-g4-0.png",
-      "castUrl": "https://raw.githubusercontent.com/superinference/demos/main/debugging-20261113-155339-g4-0/debugging-20261113-155339-g4-0.cast",
-      "gifUrl": "https://raw.githubusercontent.com/superinference/demos/main/debugging-20261113-155339-g4-0/debugging-20261113-155339-g4-0.gif",
-      "thumbUrl": "https://raw.githubusercontent.com/superinference/demos/main/debugging-20261113-155339-g4-0/debugging-20261113-155339-g4-0.png"
-    },
-    {
-      "id": "debugging-20261113-155340-g4-1",
-      "title": "Fix a crashing Python script",
-      "description": "AMI writes a Python script with a bug that crashes on edge-case input, diagnoses the traceback, fixes the root cause, and re-runs it to prove the fix works.",
-      "date": "2026-11-13T15:54:36Z",
-      "categories": [
-        "Debugging"
-      ],
-      "scene": "debugging-20261113-155340-g4-1",
-      "provider": "anthropic-vertex",
-      "model": "claude-haiku-4-5",
-      "cols": 100,
-      "rows": 30,
-      "duration": 164.6,
-      "cast": "debugging-20261113-155340-g4-1/debugging-20261113-155340-g4-1.cast",
-      "gif": "debugging-20261113-155340-g4-1/debugging-20261113-155340-g4-1.gif",
-      "thumb": "debugging-20261113-155340-g4-1/debugging-20261113-155340-g4-1.png",
-      "castUrl": "https://raw.githubusercontent.com/superinference/demos/main/debugging-20261113-155340-g4-1/debugging-20261113-155340-g4-1.cast",
-      "gifUrl": "https://raw.githubusercontent.com/superinference/demos/main/debugging-20261113-155340-g4-1/debugging-20261113-155340-g4-1.gif",
-      "thumbUrl": "https://raw.githubusercontent.com/superinference/demos/main/debugging-20261113-155340-g4-1/debugging-20261113-155340-g4-1.png"
-    },
-    {
-      "id": "integrations-20261113-142736-26",
-      "title": "Impeccable skill restyles HTML button",
-      "description": "Invokes AMI's built-in 'impeccable' design skill to restyle a plain HTML button into a polished, accessible component, demonstrating skill-driven UI refinement without any network access.",
-      "date": "2026-11-13T14:28:30Z",
-      "categories": [
-        "Integrations"
-      ],
-      "scene": "integrations-20261113-142736-26",
-      "provider": "anthropic-vertex",
-      "model": "claude-sonnet-4-5",
-      "cols": 100,
-      "rows": 30,
-      "duration": 214.2,
-      "cast": "integrations-20261113-142736-26/integrations-20261113-142736-26.cast",
-      "gif": "integrations-20261113-142736-26/integrations-20261113-142736-26.gif",
-      "thumb": "integrations-20261113-142736-26/integrations-20261113-142736-26.png",
-      "castUrl": "https://raw.githubusercontent.com/superinference/demos/main/integrations-20261113-142736-26/integrations-20261113-142736-26.cast",
-      "gifUrl": "https://raw.githubusercontent.com/superinference/demos/main/integrations-20261113-142736-26/integrations-20261113-142736-26.gif",
-      "thumbUrl": "https://raw.githubusercontent.com/superinference/demos/main/integrations-20261113-142736-26/integrations-20261113-142736-26.png"
-    },
-    {
-      "id": "integrations-20261113-142730-29",
-      "title": "Nmap port scan via Kali",
-      "description": "Uses the Kali MCP server to run an nmap scan against a single TCP port on a target host and reports whether the port is open or closed.",
-      "date": "2026-11-13T14:27:52Z",
-      "categories": [
-        "Integrations"
-      ],
-      "scene": "integrations-20261113-142730-29",
-      "provider": "anthropic-vertex",
-      "model": "claude-opus-4-8",
-      "cols": 100,
-      "rows": 30,
-      "duration": 108.9,
-      "cast": "integrations-20261113-142730-29/integrations-20261113-142730-29.cast",
-      "gif": "integrations-20261113-142730-29/integrations-20261113-142730-29.gif",
-      "thumb": "integrations-20261113-142730-29/integrations-20261113-142730-29.png",
-      "castUrl": "https://raw.githubusercontent.com/superinference/demos/main/integrations-20261113-142730-29/integrations-20261113-142730-29.cast",
-      "gifUrl": "https://raw.githubusercontent.com/superinference/demos/main/integrations-20261113-142730-29/integrations-20261113-142730-29.gif",
-      "thumbUrl": "https://raw.githubusercontent.com/superinference/demos/main/integrations-20261113-142730-29/integrations-20261113-142730-29.png"
-    },
-    {
       "id": "integrations-20261113-142730-28",
       "title": "Nmap port scan via Kali",
       "description": "Uses the Kali MCP server to run an nmap scan against a single TCP port on a target host and reports whether the port is open or closed.",
@@ -1156,90 +463,6 @@
       "castUrl": "https://raw.githubusercontent.com/superinference/demos/main/integrations-20261113-142730-28/integrations-20261113-142730-28.cast",
       "gifUrl": "https://raw.githubusercontent.com/superinference/demos/main/integrations-20261113-142730-28/integrations-20261113-142730-28.gif",
       "thumbUrl": "https://raw.githubusercontent.com/superinference/demos/main/integrations-20261113-142730-28/integrations-20261113-142730-28.png"
-    },
-    {
-      "id": "integrations-20261113-142149-22",
-      "title": "Skill-Driven README Design",
-      "description": "Invokes the cognitive-doc-design skill to craft a polished README.md for a fictional CLI tool, demonstrating how AMI skills guide document structure for reduced cognitive load.",
-      "date": "2026-11-13T14:22:43Z",
-      "categories": [
-        "Integrations"
-      ],
-      "scene": "integrations-20261113-142149-22",
-      "provider": "anthropic-vertex",
-      "model": "claude-sonnet-4-5",
-      "cols": 100,
-      "rows": 30,
-      "duration": 128.4,
-      "cast": "integrations-20261113-142149-22/integrations-20261113-142149-22.cast",
-      "gif": "integrations-20261113-142149-22/integrations-20261113-142149-22.gif",
-      "thumb": "integrations-20261113-142149-22/integrations-20261113-142149-22.png",
-      "castUrl": "https://raw.githubusercontent.com/superinference/demos/main/integrations-20261113-142149-22/integrations-20261113-142149-22.cast",
-      "gifUrl": "https://raw.githubusercontent.com/superinference/demos/main/integrations-20261113-142149-22/integrations-20261113-142149-22.gif",
-      "thumbUrl": "https://raw.githubusercontent.com/superinference/demos/main/integrations-20261113-142149-22/integrations-20261113-142149-22.png"
-    },
-    {
-      "id": "integrations-20261113-142148-21",
-      "title": "Skill-Driven README Design",
-      "description": "Invokes the cognitive-doc-design skill to craft a polished README.md for a fictional CLI tool, demonstrating how AMI skills guide document structure for reduced cognitive load.",
-      "date": "2026-11-13T14:22:42Z",
-      "categories": [
-        "Integrations"
-      ],
-      "scene": "integrations-20261113-142148-21",
-      "provider": "anthropic-vertex",
-      "model": "claude-haiku-4-5",
-      "cols": 100,
-      "rows": 30,
-      "duration": 108.1,
-      "cast": "integrations-20261113-142148-21/integrations-20261113-142148-21.cast",
-      "gif": "integrations-20261113-142148-21/integrations-20261113-142148-21.gif",
-      "thumb": "integrations-20261113-142148-21/integrations-20261113-142148-21.png",
-      "castUrl": "https://raw.githubusercontent.com/superinference/demos/main/integrations-20261113-142148-21/integrations-20261113-142148-21.cast",
-      "gifUrl": "https://raw.githubusercontent.com/superinference/demos/main/integrations-20261113-142148-21/integrations-20261113-142148-21.gif",
-      "thumbUrl": "https://raw.githubusercontent.com/superinference/demos/main/integrations-20261113-142148-21/integrations-20261113-142148-21.png"
-    },
-    {
-      "id": "integrations-20261113-142138-23",
-      "title": "Skill-Driven README Design",
-      "description": "Invokes the cognitive-doc-design skill to craft a polished README.md for a fictional CLI tool, demonstrating how AMI skills guide document structure for reduced cognitive load.",
-      "date": "2026-11-13T14:22:34Z",
-      "categories": [
-        "Integrations"
-      ],
-      "scene": "integrations-20261113-142138-23",
-      "provider": "anthropic-vertex",
-      "model": "claude-haiku-4-5",
-      "cols": 100,
-      "rows": 30,
-      "duration": 114.0,
-      "cast": "integrations-20261113-142138-23/integrations-20261113-142138-23.cast",
-      "gif": "integrations-20261113-142138-23/integrations-20261113-142138-23.gif",
-      "thumb": "integrations-20261113-142138-23/integrations-20261113-142138-23.png",
-      "castUrl": "https://raw.githubusercontent.com/superinference/demos/main/integrations-20261113-142138-23/integrations-20261113-142138-23.cast",
-      "gifUrl": "https://raw.githubusercontent.com/superinference/demos/main/integrations-20261113-142138-23/integrations-20261113-142138-23.gif",
-      "thumbUrl": "https://raw.githubusercontent.com/superinference/demos/main/integrations-20261113-142138-23/integrations-20261113-142138-23.png"
-    },
-    {
-      "id": "miscellaneous-20261113-142111-20",
-      "title": "Solve a maze with pathfinding",
-      "description": "Generates a random ASCII maze using recursive backtracking, solves it from top-left to bottom-right with BFS, and prints both the unsolved and solved maze with the path marked.",
-      "date": "2026-11-13T14:22:07Z",
-      "categories": [
-        "Miscellaneous"
-      ],
-      "scene": "miscellaneous-20261113-142111-20",
-      "provider": "anthropic-vertex",
-      "model": "claude-haiku-4-5",
-      "cols": 100,
-      "rows": 30,
-      "duration": 106.1,
-      "cast": "miscellaneous-20261113-142111-20/miscellaneous-20261113-142111-20.cast",
-      "gif": "miscellaneous-20261113-142111-20/miscellaneous-20261113-142111-20.gif",
-      "thumb": "miscellaneous-20261113-142111-20/miscellaneous-20261113-142111-20.png",
-      "castUrl": "https://raw.githubusercontent.com/superinference/demos/main/miscellaneous-20261113-142111-20/miscellaneous-20261113-142111-20.cast",
-      "gifUrl": "https://raw.githubusercontent.com/superinference/demos/main/miscellaneous-20261113-142111-20/miscellaneous-20261113-142111-20.gif",
-      "thumbUrl": "https://raw.githubusercontent.com/superinference/demos/main/miscellaneous-20261113-142111-20/miscellaneous-20261113-142111-20.png"
     },
     {
       "id": "miscellaneous-20261113-141245-18",
@@ -1284,48 +507,6 @@
       "thumbUrl": "https://raw.githubusercontent.com/superinference/demos/main/miscellaneous-20261113-141245-19/miscellaneous-20261113-141245-19.png"
     },
     {
-      "id": "automation-20261113-141246-16",
-      "title": "Multi-module CLI app from scratch",
-      "description": "AMI builds a modular unit-converter CLI split across several Python files, wires them together, and runs a conversion to print a readable result.",
-      "date": "2026-11-13T14:13:41Z",
-      "categories": [
-        "Automation"
-      ],
-      "scene": "automation-20261113-141246-16",
-      "provider": "anthropic-vertex",
-      "model": "claude-sonnet-4-5",
-      "cols": 100,
-      "rows": 30,
-      "duration": 98.6,
-      "cast": "automation-20261113-141246-16/automation-20261113-141246-16.cast",
-      "gif": "automation-20261113-141246-16/automation-20261113-141246-16.gif",
-      "thumb": "automation-20261113-141246-16/automation-20261113-141246-16.png",
-      "castUrl": "https://raw.githubusercontent.com/superinference/demos/main/automation-20261113-141246-16/automation-20261113-141246-16.cast",
-      "gifUrl": "https://raw.githubusercontent.com/superinference/demos/main/automation-20261113-141246-16/automation-20261113-141246-16.gif",
-      "thumbUrl": "https://raw.githubusercontent.com/superinference/demos/main/automation-20261113-141246-16/automation-20261113-141246-16.png"
-    },
-    {
-      "id": "automation-20261113-141245-15",
-      "title": "CSV Stats Command-Line Tool",
-      "description": "Builds a small Python CLI that reads a CSV file, computes per-column statistics (count, mean, min, max, std dev), and prints a formatted summary table — demonstrating end-to-end utility creation and execution.",
-      "date": "2026-11-13T14:13:09Z",
-      "categories": [
-        "Automation"
-      ],
-      "scene": "automation-20261113-141245-15",
-      "provider": "anthropic-vertex",
-      "model": "claude-sonnet-4-5",
-      "cols": 100,
-      "rows": 30,
-      "duration": 168.1,
-      "cast": "automation-20261113-141245-15/automation-20261113-141245-15.cast",
-      "gif": "automation-20261113-141245-15/automation-20261113-141245-15.gif",
-      "thumb": "automation-20261113-141245-15/automation-20261113-141245-15.png",
-      "castUrl": "https://raw.githubusercontent.com/superinference/demos/main/automation-20261113-141245-15/automation-20261113-141245-15.cast",
-      "gifUrl": "https://raw.githubusercontent.com/superinference/demos/main/automation-20261113-141245-15/automation-20261113-141245-15.gif",
-      "thumbUrl": "https://raw.githubusercontent.com/superinference/demos/main/automation-20261113-141245-15/automation-20261113-141245-15.png"
-    },
-    {
       "id": "automation-20261113-141246-17",
       "title": "Git Init, Commit & Diff",
       "description": "Initializes a git repo, creates files across two commits, then displays the log and a diff between them to verify history.",
@@ -1345,69 +526,6 @@
       "castUrl": "https://raw.githubusercontent.com/superinference/demos/main/automation-20261113-141246-17/automation-20261113-141246-17.cast",
       "gifUrl": "https://raw.githubusercontent.com/superinference/demos/main/automation-20261113-141246-17/automation-20261113-141246-17.gif",
       "thumbUrl": "https://raw.githubusercontent.com/superinference/demos/main/automation-20261113-141246-17/automation-20261113-141246-17.png"
-    },
-    {
-      "id": "data-20261113-140628-14",
-      "title": "JSON to Human-Readable Report",
-      "description": "AMI writes a Python script that parses an inline JSON dataset of quarterly sales figures and prints a clean, formatted summary report to the terminal.",
-      "date": "2026-11-13T14:07:24Z",
-      "categories": [
-        "Data"
-      ],
-      "scene": "data-20261113-140628-14",
-      "provider": "anthropic-vertex",
-      "model": "claude-opus-4-8",
-      "cols": 100,
-      "rows": 30,
-      "duration": 98.5,
-      "cast": "data-20261113-140628-14/data-20261113-140628-14.cast",
-      "gif": "data-20261113-140628-14/data-20261113-140628-14.gif",
-      "thumb": "data-20261113-140628-14/data-20261113-140628-14.png",
-      "castUrl": "https://raw.githubusercontent.com/superinference/demos/main/data-20261113-140628-14/data-20261113-140628-14.cast",
-      "gifUrl": "https://raw.githubusercontent.com/superinference/demos/main/data-20261113-140628-14/data-20261113-140628-14.gif",
-      "thumbUrl": "https://raw.githubusercontent.com/superinference/demos/main/data-20261113-140628-14/data-20261113-140628-14.png"
-    },
-    {
-      "id": "algorithms-20261113-140629-10",
-      "title": "Graph Shortest Path Solver",
-      "description": "AMI writes a Python program that implements Dijkstra's algorithm from scratch, builds a small weighted graph, and prints the shortest path with its total cost.",
-      "date": "2026-11-13T14:07:24Z",
-      "categories": [
-        "Algorithms"
-      ],
-      "scene": "algorithms-20261113-140629-10",
-      "provider": "anthropic-vertex",
-      "model": "claude-opus-4-8",
-      "cols": 100,
-      "rows": 30,
-      "duration": 82.8,
-      "cast": "algorithms-20261113-140629-10/algorithms-20261113-140629-10.cast",
-      "gif": "algorithms-20261113-140629-10/algorithms-20261113-140629-10.gif",
-      "thumb": "algorithms-20261113-140629-10/algorithms-20261113-140629-10.png",
-      "castUrl": "https://raw.githubusercontent.com/superinference/demos/main/algorithms-20261113-140629-10/algorithms-20261113-140629-10.cast",
-      "gifUrl": "https://raw.githubusercontent.com/superinference/demos/main/algorithms-20261113-140629-10/algorithms-20261113-140629-10.gif",
-      "thumbUrl": "https://raw.githubusercontent.com/superinference/demos/main/algorithms-20261113-140629-10/algorithms-20261113-140629-10.png"
-    },
-    {
-      "id": "data-20261113-140628-13",
-      "title": "Inline dataset quick statistics",
-      "description": "AMI writes a Python script that computes mean, median, and top-3 values from a small inline dataset, then runs it to print a clean summary table to the terminal.",
-      "date": "2026-11-13T14:07:23Z",
-      "categories": [
-        "Data"
-      ],
-      "scene": "data-20261113-140628-13",
-      "provider": "anthropic-vertex",
-      "model": "claude-haiku-4-5",
-      "cols": 100,
-      "rows": 30,
-      "duration": 155.3,
-      "cast": "data-20261113-140628-13/data-20261113-140628-13.cast",
-      "gif": "data-20261113-140628-13/data-20261113-140628-13.gif",
-      "thumb": "data-20261113-140628-13/data-20261113-140628-13.png",
-      "castUrl": "https://raw.githubusercontent.com/superinference/demos/main/data-20261113-140628-13/data-20261113-140628-13.cast",
-      "gifUrl": "https://raw.githubusercontent.com/superinference/demos/main/data-20261113-140628-13/data-20261113-140628-13.gif",
-      "thumbUrl": "https://raw.githubusercontent.com/superinference/demos/main/data-20261113-140628-13/data-20261113-140628-13.png"
     },
     {
       "id": "algorithms-20261113-140629-11",
@@ -1431,48 +549,6 @@
       "thumbUrl": "https://raw.githubusercontent.com/superinference/demos/main/algorithms-20261113-140629-11/algorithms-20261113-140629-11.png"
     },
     {
-      "id": "data-20261113-140628-12",
-      "title": "CSV to Aligned Summary Table",
-      "description": "Parses an inline CSV dataset in Python, computes per-column statistics, and prints a neatly aligned summary table to the terminal.",
-      "date": "2026-11-13T14:06:52Z",
-      "categories": [
-        "Data"
-      ],
-      "scene": "data-20261113-140628-12",
-      "provider": "anthropic-vertex",
-      "model": "claude-sonnet-4-5",
-      "cols": 100,
-      "rows": 30,
-      "duration": 110.3,
-      "cast": "data-20261113-140628-12/data-20261113-140628-12.cast",
-      "gif": "data-20261113-140628-12/data-20261113-140628-12.gif",
-      "thumb": "data-20261113-140628-12/data-20261113-140628-12.png",
-      "castUrl": "https://raw.githubusercontent.com/superinference/demos/main/data-20261113-140628-12/data-20261113-140628-12.cast",
-      "gifUrl": "https://raw.githubusercontent.com/superinference/demos/main/data-20261113-140628-12/data-20261113-140628-12.gif",
-      "thumbUrl": "https://raw.githubusercontent.com/superinference/demos/main/data-20261113-140628-12/data-20261113-140628-12.png"
-    },
-    {
-      "id": "testing-20261113-135838-7",
-      "title": "Edge-case tests expose and fix bug",
-      "description": "AMI writes a buggy function, adds edge-case tests that reveal the bug, then fixes the function so all tests pass—demonstrating test-driven bug fixing.",
-      "date": "2026-11-13T13:59:35Z",
-      "categories": [
-        "Testing"
-      ],
-      "scene": "testing-20261113-135838-7",
-      "provider": "anthropic-vertex",
-      "model": "claude-sonnet-4-5",
-      "cols": 100,
-      "rows": 30,
-      "duration": 196.8,
-      "cast": "testing-20261113-135838-7/testing-20261113-135838-7.cast",
-      "gif": "testing-20261113-135838-7/testing-20261113-135838-7.gif",
-      "thumb": "testing-20261113-135838-7/testing-20261113-135838-7.png",
-      "castUrl": "https://raw.githubusercontent.com/superinference/demos/main/testing-20261113-135838-7/testing-20261113-135838-7.cast",
-      "gifUrl": "https://raw.githubusercontent.com/superinference/demos/main/testing-20261113-135838-7/testing-20261113-135838-7.gif",
-      "thumbUrl": "https://raw.githubusercontent.com/superinference/demos/main/testing-20261113-135838-7/testing-20261113-135838-7.png"
-    },
-    {
       "id": "refactoring-20261113-135837-5",
       "title": "Refactor duplicated logic into helper",
       "description": "Creates a file with duplicated conversion logic across multiple functions, refactors it into a single reusable helper, then runs both versions and diffs the output to prove they produce identical results.",
@@ -1494,48 +570,6 @@
       "thumbUrl": "https://raw.githubusercontent.com/superinference/demos/main/refactoring-20261113-135837-5/refactoring-20261113-135837-5.png"
     },
     {
-      "id": "testing-20261113-135838-6",
-      "title": "Write module, test, verify",
-      "description": "AMI writes a small Python utility module and a matching pytest test suite from scratch, then runs the tests to show them all passing.",
-      "date": "2026-11-13T13:59:32Z",
-      "categories": [
-        "Testing"
-      ],
-      "scene": "testing-20261113-135838-6",
-      "provider": "anthropic-vertex",
-      "model": "claude-sonnet-4-5",
-      "cols": 100,
-      "rows": 30,
-      "duration": 213.6,
-      "cast": "testing-20261113-135838-6/testing-20261113-135838-6.cast",
-      "gif": "testing-20261113-135838-6/testing-20261113-135838-6.gif",
-      "thumb": "testing-20261113-135838-6/testing-20261113-135838-6.png",
-      "castUrl": "https://raw.githubusercontent.com/superinference/demos/main/testing-20261113-135838-6/testing-20261113-135838-6.cast",
-      "gifUrl": "https://raw.githubusercontent.com/superinference/demos/main/testing-20261113-135838-6/testing-20261113-135838-6.gif",
-      "thumbUrl": "https://raw.githubusercontent.com/superinference/demos/main/testing-20261113-135838-6/testing-20261113-135838-6.png"
-    },
-    {
-      "id": "algorithms-20261113-135838-9",
-      "title": "Quicksort from scratch",
-      "description": "AMI writes a quicksort implementation in Python, generates a random dataset, sorts it, and prints a clear before/after comparison to the terminal.",
-      "date": "2026-11-13T13:59:32Z",
-      "categories": [
-        "Algorithms"
-      ],
-      "scene": "algorithms-20261113-135838-9",
-      "provider": "anthropic-vertex",
-      "model": "claude-haiku-4-5",
-      "cols": 100,
-      "rows": 30,
-      "duration": 84.9,
-      "cast": "algorithms-20261113-135838-9/algorithms-20261113-135838-9.cast",
-      "gif": "algorithms-20261113-135838-9/algorithms-20261113-135838-9.gif",
-      "thumb": "algorithms-20261113-135838-9/algorithms-20261113-135838-9.png",
-      "castUrl": "https://raw.githubusercontent.com/superinference/demos/main/algorithms-20261113-135838-9/algorithms-20261113-135838-9.cast",
-      "gifUrl": "https://raw.githubusercontent.com/superinference/demos/main/algorithms-20261113-135838-9/algorithms-20261113-135838-9.gif",
-      "thumbUrl": "https://raw.githubusercontent.com/superinference/demos/main/algorithms-20261113-135838-9/algorithms-20261113-135838-9.png"
-    },
-    {
       "id": "testing-20261113-135838-8",
       "title": "Parametrized tests for a utility",
       "description": "AMI writes a small utility function and a parametrized pytest suite from scratch, then runs the tests and prints a clear pass/fail summary.",
@@ -1555,27 +589,6 @@
       "castUrl": "https://raw.githubusercontent.com/superinference/demos/main/testing-20261113-135838-8/testing-20261113-135838-8.cast",
       "gifUrl": "https://raw.githubusercontent.com/superinference/demos/main/testing-20261113-135838-8/testing-20261113-135838-8.gif",
       "thumbUrl": "https://raw.githubusercontent.com/superinference/demos/main/testing-20261113-135838-8/testing-20261113-135838-8.png"
-    },
-    {
-      "id": "refactoring-20261113-135055-4",
-      "title": "Refactor Nested Conditionals Data-Driven",
-      "description": "Creates a function full of deeply nested if/else conditionals, refactors it into a clean data-driven lookup table, then runs both versions and diffs the output to prove behavior is unchanged.",
-      "date": "2026-11-13T13:51:52Z",
-      "categories": [
-        "Refactoring"
-      ],
-      "scene": "refactoring-20261113-135055-4",
-      "provider": "anthropic-vertex",
-      "model": "claude-opus-4-8",
-      "cols": 100,
-      "rows": 30,
-      "duration": 115.1,
-      "cast": "refactoring-20261113-135055-4/refactoring-20261113-135055-4.cast",
-      "gif": "refactoring-20261113-135055-4/refactoring-20261113-135055-4.gif",
-      "thumb": "refactoring-20261113-135055-4/refactoring-20261113-135055-4.png",
-      "castUrl": "https://raw.githubusercontent.com/superinference/demos/main/refactoring-20261113-135055-4/refactoring-20261113-135055-4.cast",
-      "gifUrl": "https://raw.githubusercontent.com/superinference/demos/main/refactoring-20261113-135055-4/refactoring-20261113-135055-4.gif",
-      "thumbUrl": "https://raw.githubusercontent.com/superinference/demos/main/refactoring-20261113-135055-4/refactoring-20261113-135055-4.png"
     },
     {
       "id": "debugging-20261113-135055-2",
@@ -1641,90 +654,6 @@
       "thumbUrl": "https://raw.githubusercontent.com/superinference/demos/main/debugging-20261113-135055-1/debugging-20261113-135055-1.png"
     },
     {
-      "id": "refactoring-20261113-135055-3",
-      "title": "Refactor repetitive function into helpers",
-      "description": "AMI creates a Python file with a long repetitive function, then refactors it into clean small helpers and runs tests to prove behavior is identical before and after.",
-      "date": "2026-11-13T13:51:20Z",
-      "categories": [
-        "Refactoring"
-      ],
-      "scene": "refactoring-20261113-135055-3",
-      "provider": "anthropic-vertex",
-      "model": "claude-opus-4-8",
-      "cols": 100,
-      "rows": 30,
-      "duration": 160.8,
-      "cast": "refactoring-20261113-135055-3/refactoring-20261113-135055-3.cast",
-      "gif": "refactoring-20261113-135055-3/refactoring-20261113-135055-3.gif",
-      "thumb": "refactoring-20261113-135055-3/refactoring-20261113-135055-3.png",
-      "castUrl": "https://raw.githubusercontent.com/superinference/demos/main/refactoring-20261113-135055-3/refactoring-20261113-135055-3.cast",
-      "gifUrl": "https://raw.githubusercontent.com/superinference/demos/main/refactoring-20261113-135055-3/refactoring-20261113-135055-3.gif",
-      "thumbUrl": "https://raw.githubusercontent.com/superinference/demos/main/refactoring-20261113-135055-3/refactoring-20261113-135055-3.png"
-    },
-    {
-      "id": "integrations-20261113-125754-kali",
-      "title": "Nmap port scan via Kali",
-      "description": "Activates the pentest stance to access the Kali MCP server, runs an nmap scan against a single TCP port on a target host, and prints whether the port is open or closed.",
-      "date": "2026-11-13T12:58:16Z",
-      "categories": [
-        "Integrations"
-      ],
-      "scene": "integrations-20261113-125754-kali",
-      "provider": "anthropic-vertex",
-      "model": "claude-opus-4-8",
-      "cols": 100,
-      "rows": 30,
-      "duration": 91.5,
-      "cast": "integrations-20261113-125754-kali/integrations-20261113-125754-kali.cast",
-      "gif": "integrations-20261113-125754-kali/integrations-20261113-125754-kali.gif",
-      "thumb": "integrations-20261113-125754-kali/integrations-20261113-125754-kali.png",
-      "castUrl": "https://raw.githubusercontent.com/superinference/demos/main/integrations-20261113-125754-kali/integrations-20261113-125754-kali.cast",
-      "gifUrl": "https://raw.githubusercontent.com/superinference/demos/main/integrations-20261113-125754-kali/integrations-20261113-125754-kali.gif",
-      "thumbUrl": "https://raw.githubusercontent.com/superinference/demos/main/integrations-20261113-125754-kali/integrations-20261113-125754-kali.png"
-    },
-    {
-      "id": "integrations-20261113-125124-gentleai",
-      "title": "Skill-Driven README Design",
-      "description": "Invokes the cognitive-doc-design skill to craft a polished, low-cognitive-load README.md for a fictional CLI tool, demonstrating how AMI skills guide document structure.",
-      "date": "2026-11-13T12:53:27Z",
-      "categories": [
-        "Integrations"
-      ],
-      "scene": "integrations-20261113-125124-gentleai",
-      "provider": "anthropic-vertex",
-      "model": "claude-opus-4-8",
-      "cols": 100,
-      "rows": 30,
-      "duration": 121.3,
-      "cast": "integrations-20261113-125124-gentleai/integrations-20261113-125124-gentleai.cast",
-      "gif": "integrations-20261113-125124-gentleai/integrations-20261113-125124-gentleai.gif",
-      "thumb": "integrations-20261113-125124-gentleai/integrations-20261113-125124-gentleai.png",
-      "castUrl": "https://raw.githubusercontent.com/superinference/demos/main/integrations-20261113-125124-gentleai/integrations-20261113-125124-gentleai.cast",
-      "gifUrl": "https://raw.githubusercontent.com/superinference/demos/main/integrations-20261113-125124-gentleai/integrations-20261113-125124-gentleai.gif",
-      "thumbUrl": "https://raw.githubusercontent.com/superinference/demos/main/integrations-20261113-125124-gentleai/integrations-20261113-125124-gentleai.png"
-    },
-    {
-      "id": "miscellaneous-20261113-125025-29",
-      "title": "Maze solver with ASCII map",
-      "description": "Generates a random maze, solves it with BFS, and prints the maze with the shortest path highlighted — demonstrating file creation, algorithm implementation, and a visual terminal result.",
-      "date": "2026-11-13T12:50:50Z",
-      "categories": [
-        "Miscellaneous"
-      ],
-      "scene": "miscellaneous-20261113-125025-29",
-      "provider": "anthropic-vertex",
-      "model": "claude-haiku-4-5",
-      "cols": 100,
-      "rows": 30,
-      "duration": 173.0,
-      "cast": "miscellaneous-20261113-125025-29/miscellaneous-20261113-125025-29.cast",
-      "gif": "miscellaneous-20261113-125025-29/miscellaneous-20261113-125025-29.gif",
-      "thumb": "miscellaneous-20261113-125025-29/miscellaneous-20261113-125025-29.png",
-      "castUrl": "https://raw.githubusercontent.com/superinference/demos/main/miscellaneous-20261113-125025-29/miscellaneous-20261113-125025-29.cast",
-      "gifUrl": "https://raw.githubusercontent.com/superinference/demos/main/miscellaneous-20261113-125025-29/miscellaneous-20261113-125025-29.gif",
-      "thumbUrl": "https://raw.githubusercontent.com/superinference/demos/main/miscellaneous-20261113-125025-29/miscellaneous-20261113-125025-29.png"
-    },
-    {
       "id": "miscellaneous-20261113-125004-27",
       "title": "Maze Solver with ASCII Heatmap",
       "description": "Generates a random maze, solves it with BFS, then prints the maze overlaid with a distance heatmap showing how far each cell is from the start — combining procedural generation, graph search, and colorful terminal visualization in one script.",
@@ -1788,27 +717,6 @@
       "thumbUrl": "https://raw.githubusercontent.com/superinference/demos/main/automation-20261113-124802-24/automation-20261113-124802-24.png"
     },
     {
-      "id": "automation-20261113-124807-25",
-      "title": "Docstring-Rich Unit Converter Module",
-      "description": "AMI writes a small temperature-unit converter module with detailed docstrings, then prints its built-in help to the terminal showing clean, readable usage documentation.",
-      "date": "2026-11-13T12:48:30Z",
-      "categories": [
-        "Automation"
-      ],
-      "scene": "automation-20261113-124807-25",
-      "provider": "anthropic-vertex",
-      "model": "claude-sonnet-4-5",
-      "cols": 100,
-      "rows": 30,
-      "duration": 110.7,
-      "cast": "automation-20261113-124807-25/automation-20261113-124807-25.cast",
-      "gif": "automation-20261113-124807-25/automation-20261113-124807-25.gif",
-      "thumb": "automation-20261113-124807-25/automation-20261113-124807-25.png",
-      "castUrl": "https://raw.githubusercontent.com/superinference/demos/main/automation-20261113-124807-25/automation-20261113-124807-25.cast",
-      "gifUrl": "https://raw.githubusercontent.com/superinference/demos/main/automation-20261113-124807-25/automation-20261113-124807-25.gif",
-      "thumbUrl": "https://raw.githubusercontent.com/superinference/demos/main/automation-20261113-124807-25/automation-20261113-124807-25.png"
-    },
-    {
       "id": "automation-20261113-124732-22",
       "title": "CLI Duplicate File Finder",
       "description": "Builds a Python CLI tool that scans a directory for duplicate files by SHA-256 content hash, then runs it on a sample folder with planted duplicates to print a clear grouped summary.",
@@ -1851,27 +759,6 @@
       "thumbUrl": "https://raw.githubusercontent.com/superinference/demos/main/data-20261113-124724-21/data-20261113-124724-21.png"
     },
     {
-      "id": "automation-20261113-124759-23",
-      "title": "Morse Code Translator CLI",
-      "description": "Builds a multi-file CLI Morse code translator split into encoder, decoder, and main modules, then translates a phrase to Morse and back to prove round-trip correctness.",
-      "date": "2026-11-13T12:48:22Z",
-      "categories": [
-        "Automation"
-      ],
-      "scene": "automation-20261113-124759-23",
-      "provider": "anthropic-vertex",
-      "model": "claude-haiku-4-5",
-      "cols": 100,
-      "rows": 30,
-      "duration": 245.3,
-      "cast": "automation-20261113-124759-23/automation-20261113-124759-23.cast",
-      "gif": "automation-20261113-124759-23/automation-20261113-124759-23.gif",
-      "thumb": "automation-20261113-124759-23/automation-20261113-124759-23.png",
-      "castUrl": "https://raw.githubusercontent.com/superinference/demos/main/automation-20261113-124759-23/automation-20261113-124759-23.cast",
-      "gifUrl": "https://raw.githubusercontent.com/superinference/demos/main/automation-20261113-124759-23/automation-20261113-124759-23.gif",
-      "thumbUrl": "https://raw.githubusercontent.com/superinference/demos/main/automation-20261113-124759-23/automation-20261113-124759-23.png"
-    },
-    {
       "id": "data-20261113-124711-20",
       "title": "Café Drink Popularity Stats",
       "description": "Builds a Python script that analyzes a week of café drink orders, computing mean/median daily sales, identifying the top-3 bestsellers, and printing a neat ranked summary table.",
@@ -1912,48 +799,6 @@
       "castUrl": "https://raw.githubusercontent.com/superinference/demos/main/algorithms-20261113-124602-18/algorithms-20261113-124602-18.cast",
       "gifUrl": "https://raw.githubusercontent.com/superinference/demos/main/algorithms-20261113-124602-18/algorithms-20261113-124602-18.gif",
       "thumbUrl": "https://raw.githubusercontent.com/superinference/demos/main/algorithms-20261113-124602-18/algorithms-20261113-124602-18.png"
-    },
-    {
-      "id": "algorithms-20261113-124536-16",
-      "title": "Dice-notation expression evaluator",
-      "description": "Builds a tokenizer, recursive-descent parser, and tree-walking evaluator for tabletop RPG dice notation (e.g. 2d6+3, 4d8-1d4+2) from scratch in Python, then evaluates several sample rolls and prints the results.",
-      "date": "2026-11-13T12:46:34Z",
-      "categories": [
-        "Algorithms"
-      ],
-      "scene": "algorithms-20261113-124536-16",
-      "provider": "anthropic-vertex",
-      "model": "claude-sonnet-4-5",
-      "cols": 100,
-      "rows": 30,
-      "duration": 144.6,
-      "cast": "algorithms-20261113-124536-16/algorithms-20261113-124536-16.cast",
-      "gif": "algorithms-20261113-124536-16/algorithms-20261113-124536-16.gif",
-      "thumb": "algorithms-20261113-124536-16/algorithms-20261113-124536-16.png",
-      "castUrl": "https://raw.githubusercontent.com/superinference/demos/main/algorithms-20261113-124536-16/algorithms-20261113-124536-16.cast",
-      "gifUrl": "https://raw.githubusercontent.com/superinference/demos/main/algorithms-20261113-124536-16/algorithms-20261113-124536-16.gif",
-      "thumbUrl": "https://raw.githubusercontent.com/superinference/demos/main/algorithms-20261113-124536-16/algorithms-20261113-124536-16.png"
-    },
-    {
-      "id": "integrations-20261113-124133-impeccable",
-      "title": "Impeccable Skill: Button Makeover",
-      "description": "Invokes the impeccable skill to critique a plain HTML button, then applies its guidance to produce a polished, accessible styled button in index.html.",
-      "date": "2026-11-13T12:42:28Z",
-      "categories": [
-        "Integrations"
-      ],
-      "scene": "integrations-20261113-124133-impeccable",
-      "provider": "anthropic-vertex",
-      "model": "claude-opus-4-8",
-      "cols": 100,
-      "rows": 30,
-      "duration": 317.8,
-      "cast": "integrations-20261113-124133-impeccable/integrations-20261113-124133-impeccable.cast",
-      "gif": "integrations-20261113-124133-impeccable/integrations-20261113-124133-impeccable.gif",
-      "thumb": "integrations-20261113-124133-impeccable/integrations-20261113-124133-impeccable.png",
-      "castUrl": "https://raw.githubusercontent.com/superinference/demos/main/integrations-20261113-124133-impeccable/integrations-20261113-124133-impeccable.cast",
-      "gifUrl": "https://raw.githubusercontent.com/superinference/demos/main/integrations-20261113-124133-impeccable/integrations-20261113-124133-impeccable.gif",
-      "thumbUrl": "https://raw.githubusercontent.com/superinference/demos/main/integrations-20261113-124133-impeccable/integrations-20261113-124133-impeccable.png"
     },
     {
       "id": "refactoring-20261113-124122-7",
@@ -2187,69 +1032,6 @@
       "thumbUrl": "https://raw.githubusercontent.com/superinference/demos/main/debugging-20261113-124123-2/debugging-20261113-124123-2.png"
     },
     {
-      "id": "testing-20261113-124123-12",
-      "title": "Parametrized tests for Roman numerals",
-      "description": "Creates a Roman numeral converter function and a parametrized pytest suite that validates conversion of integers to Roman numeral strings, then runs the tests to show all cases passing.",
-      "date": "2026-11-13T12:41:46Z",
-      "categories": [
-        "Testing"
-      ],
-      "scene": "testing-20261113-124123-12",
-      "provider": "anthropic-vertex",
-      "model": "claude-opus-4-8",
-      "cols": 100,
-      "rows": 30,
-      "duration": 96.8,
-      "cast": "testing-20261113-124123-12/testing-20261113-124123-12.cast",
-      "gif": "testing-20261113-124123-12/testing-20261113-124123-12.gif",
-      "thumb": "testing-20261113-124123-12/testing-20261113-124123-12.png",
-      "castUrl": "https://raw.githubusercontent.com/superinference/demos/main/testing-20261113-124123-12/testing-20261113-124123-12.cast",
-      "gifUrl": "https://raw.githubusercontent.com/superinference/demos/main/testing-20261113-124123-12/testing-20261113-124123-12.gif",
-      "thumbUrl": "https://raw.githubusercontent.com/superinference/demos/main/testing-20261113-124123-12/testing-20261113-124123-12.png"
-    },
-    {
-      "id": "integrations-20261113-121115-gentleai",
-      "title": "Skill-Driven README Design",
-      "description": "Invokes the cognitive-doc-design skill to craft a polished, low-cognitive-load README.md for a small CLI tool, demonstrating how AMI skills guide document structure.",
-      "date": "2026-11-13T12:12:10Z",
-      "categories": [
-        "Integrations"
-      ],
-      "scene": "integrations-20261113-121115-gentleai",
-      "provider": "anthropic-vertex",
-      "model": "claude-opus-4-8",
-      "cols": 100,
-      "rows": 30,
-      "duration": 126.0,
-      "cast": "integrations-20261113-121115-gentleai/integrations-20261113-121115-gentleai.cast",
-      "gif": "integrations-20261113-121115-gentleai/integrations-20261113-121115-gentleai.gif",
-      "thumb": "integrations-20261113-121115-gentleai/integrations-20261113-121115-gentleai.png",
-      "castUrl": "https://raw.githubusercontent.com/superinference/demos/main/integrations-20261113-121115-gentleai/integrations-20261113-121115-gentleai.cast",
-      "gifUrl": "https://raw.githubusercontent.com/superinference/demos/main/integrations-20261113-121115-gentleai/integrations-20261113-121115-gentleai.gif",
-      "thumbUrl": "https://raw.githubusercontent.com/superinference/demos/main/integrations-20261113-121115-gentleai/integrations-20261113-121115-gentleai.png"
-    },
-    {
-      "id": "integrations-20261113-120219-impeccable",
-      "title": "Impeccable skill restyles HTML button",
-      "description": "Invokes AMI's built-in 'impeccable' design skill to critique a plain HTML button, then rewrites index.html with polished, accessible styling and prints a summary.",
-      "date": "2026-11-13T12:03:14Z",
-      "categories": [
-        "Integrations"
-      ],
-      "scene": "integrations-20261113-120219-impeccable",
-      "provider": "anthropic-vertex",
-      "model": "claude-opus-4-8",
-      "cols": 100,
-      "rows": 30,
-      "duration": 288.2,
-      "cast": "integrations-20261113-120219-impeccable/integrations-20261113-120219-impeccable.cast",
-      "gif": "integrations-20261113-120219-impeccable/integrations-20261113-120219-impeccable.gif",
-      "thumb": "integrations-20261113-120219-impeccable/integrations-20261113-120219-impeccable.png",
-      "castUrl": "https://raw.githubusercontent.com/superinference/demos/main/integrations-20261113-120219-impeccable/integrations-20261113-120219-impeccable.cast",
-      "gifUrl": "https://raw.githubusercontent.com/superinference/demos/main/integrations-20261113-120219-impeccable/integrations-20261113-120219-impeccable.gif",
-      "thumbUrl": "https://raw.githubusercontent.com/superinference/demos/main/integrations-20261113-120219-impeccable/integrations-20261113-120219-impeccable.png"
-    },
-    {
       "id": "miscellaneous-20261113-115839-29",
       "title": "Morse Code Translator Table",
       "description": "Builds a bidirectional Morse code translator in Python, encodes a famous quote, then decodes it back, printing a styled comparison table proving round-trip fidelity.",
@@ -2397,27 +1179,6 @@
       "thumbUrl": "https://raw.githubusercontent.com/superinference/demos/main/automation-20261113-115520-22/automation-20261113-115520-22.png"
     },
     {
-      "id": "integrations-20261113-115538-kali",
-      "title": "Nmap port scan via Kali",
-      "description": "Activates the pentest stance to access the Kali MCP server, runs an nmap scan against a single TCP port on a target host, and prints whether the port is open or closed.",
-      "date": "2026-11-13T11:56:00Z",
-      "categories": [
-        "Integrations"
-      ],
-      "scene": "integrations-20261113-115538-kali",
-      "provider": "anthropic-vertex",
-      "model": "claude-opus-4-8",
-      "cols": 100,
-      "rows": 30,
-      "duration": 116.7,
-      "cast": "integrations-20261113-115538-kali/integrations-20261113-115538-kali.cast",
-      "gif": "integrations-20261113-115538-kali/integrations-20261113-115538-kali.gif",
-      "thumb": "integrations-20261113-115538-kali/integrations-20261113-115538-kali.png",
-      "castUrl": "https://raw.githubusercontent.com/superinference/demos/main/integrations-20261113-115538-kali/integrations-20261113-115538-kali.cast",
-      "gifUrl": "https://raw.githubusercontent.com/superinference/demos/main/integrations-20261113-115538-kali/integrations-20261113-115538-kali.gif",
-      "thumbUrl": "https://raw.githubusercontent.com/superinference/demos/main/integrations-20261113-115538-kali/integrations-20261113-115538-kali.png"
-    },
-    {
       "id": "data-20261113-115446-20",
       "title": "Volcano eruption interval statistics",
       "description": "AMI writes a Python script that analyzes the repose intervals (years between eruptions) of historically active volcanoes, computing mean, median, and the top-3 most frequently erupting volcanoes, then prints a clean summary table.",
@@ -2563,27 +1324,6 @@
       "castUrl": "https://raw.githubusercontent.com/superinference/demos/main/refactoring-20261113-114841-5/refactoring-20261113-114841-5.cast",
       "gifUrl": "https://raw.githubusercontent.com/superinference/demos/main/refactoring-20261113-114841-5/refactoring-20261113-114841-5.gif",
       "thumbUrl": "https://raw.githubusercontent.com/superinference/demos/main/refactoring-20261113-114841-5/refactoring-20261113-114841-5.png"
-    },
-    {
-      "id": "debugging-20261113-114841-4",
-      "title": "Fix YAML Deserialization Injection Flaw",
-      "description": "AMI discovers a YAML deserialization vulnerability in a Python config loader that allows arbitrary code execution via crafted YAML tags, patches it to use safe loading, and proves the exploit payload is now neutralized.",
-      "date": "2026-11-13T11:49:40Z",
-      "categories": [
-        "Debugging"
-      ],
-      "scene": "debugging-20261113-114841-4",
-      "provider": "anthropic-vertex",
-      "model": "claude-sonnet-4-5",
-      "cols": 100,
-      "rows": 30,
-      "duration": 193.3,
-      "cast": "debugging-20261113-114841-4/debugging-20261113-114841-4.cast",
-      "gif": "debugging-20261113-114841-4/debugging-20261113-114841-4.gif",
-      "thumb": "debugging-20261113-114841-4/debugging-20261113-114841-4.png",
-      "castUrl": "https://raw.githubusercontent.com/superinference/demos/main/debugging-20261113-114841-4/debugging-20261113-114841-4.cast",
-      "gifUrl": "https://raw.githubusercontent.com/superinference/demos/main/debugging-20261113-114841-4/debugging-20261113-114841-4.gif",
-      "thumbUrl": "https://raw.githubusercontent.com/superinference/demos/main/debugging-20261113-114841-4/debugging-20261113-114841-4.png"
     },
     {
       "id": "debugging-20261113-114841-2",
@@ -2880,69 +1620,6 @@
       "thumbUrl": "https://raw.githubusercontent.com/superinference/demos/main/miscellaneous-20261113-094249-27/miscellaneous-20261113-094249-27.png"
     },
     {
-      "id": "automation-20261113-094218-23",
-      "title": "Multi-module CLI app",
-      "description": "AMI builds a modular unit-converter CLI split across several Python files, wires them together, and runs a conversion to print a readable result.",
-      "date": "2026-11-13T09:43:13Z",
-      "categories": [
-        "Automation"
-      ],
-      "scene": "automation-20261113-094218-23",
-      "provider": "anthropic-vertex",
-      "model": "claude-haiku-4-5",
-      "cols": 100,
-      "rows": 30,
-      "duration": 318.1,
-      "cast": "automation-20261113-094218-23/automation-20261113-094218-23.cast",
-      "gif": "automation-20261113-094218-23/automation-20261113-094218-23.gif",
-      "thumb": "automation-20261113-094218-23/automation-20261113-094218-23.png",
-      "castUrl": "https://raw.githubusercontent.com/superinference/demos/main/automation-20261113-094218-23/automation-20261113-094218-23.cast",
-      "gifUrl": "https://raw.githubusercontent.com/superinference/demos/main/automation-20261113-094218-23/automation-20261113-094218-23.gif",
-      "thumbUrl": "https://raw.githubusercontent.com/superinference/demos/main/automation-20261113-094218-23/automation-20261113-094218-23.png"
-    },
-    {
-      "id": "data-20261113-094218-21",
-      "title": "JSON to Human Report",
-      "description": "AMI takes raw inline JSON data and writes a Python script that parses it into a clean, formatted plain-text report, then runs the script to display the result.",
-      "date": "2026-11-13T09:42:43Z",
-      "categories": [
-        "Data"
-      ],
-      "scene": "data-20261113-094218-21",
-      "provider": "anthropic-vertex",
-      "model": "claude-opus-4-8",
-      "cols": 100,
-      "rows": 30,
-      "duration": 96.3,
-      "cast": "data-20261113-094218-21/data-20261113-094218-21.cast",
-      "gif": "data-20261113-094218-21/data-20261113-094218-21.gif",
-      "thumb": "data-20261113-094218-21/data-20261113-094218-21.png",
-      "castUrl": "https://raw.githubusercontent.com/superinference/demos/main/data-20261113-094218-21/data-20261113-094218-21.cast",
-      "gifUrl": "https://raw.githubusercontent.com/superinference/demos/main/data-20261113-094218-21/data-20261113-094218-21.gif",
-      "thumbUrl": "https://raw.githubusercontent.com/superinference/demos/main/data-20261113-094218-21/data-20261113-094218-21.png"
-    },
-    {
-      "id": "automation-20261113-094219-24",
-      "title": "Git Init, Commit & Diff",
-      "description": "Initializes a git repo, creates files across two commits, then displays the log and a diff between them to verify history.",
-      "date": "2026-11-13T09:42:42Z",
-      "categories": [
-        "Automation"
-      ],
-      "scene": "automation-20261113-094219-24",
-      "provider": "anthropic-vertex",
-      "model": "claude-opus-4-8",
-      "cols": 100,
-      "rows": 30,
-      "duration": 193.8,
-      "cast": "automation-20261113-094219-24/automation-20261113-094219-24.cast",
-      "gif": "automation-20261113-094219-24/automation-20261113-094219-24.gif",
-      "thumb": "automation-20261113-094219-24/automation-20261113-094219-24.png",
-      "castUrl": "https://raw.githubusercontent.com/superinference/demos/main/automation-20261113-094219-24/automation-20261113-094219-24.cast",
-      "gifUrl": "https://raw.githubusercontent.com/superinference/demos/main/automation-20261113-094219-24/automation-20261113-094219-24.gif",
-      "thumbUrl": "https://raw.githubusercontent.com/superinference/demos/main/automation-20261113-094219-24/automation-20261113-094219-24.png"
-    },
-    {
       "id": "algorithms-20261113-094131-18",
       "title": "Monte Carlo Pi Estimation",
       "description": "Creates and runs a Python script that estimates pi by randomly sampling points in a unit square, counting how many fall inside the unit circle, then prints a clear summary comparing the estimate to the true value.",
@@ -2962,90 +1639,6 @@
       "castUrl": "https://raw.githubusercontent.com/superinference/demos/main/algorithms-20261113-094131-18/algorithms-20261113-094131-18.cast",
       "gifUrl": "https://raw.githubusercontent.com/superinference/demos/main/algorithms-20261113-094131-18/algorithms-20261113-094131-18.gif",
       "thumbUrl": "https://raw.githubusercontent.com/superinference/demos/main/algorithms-20261113-094131-18/algorithms-20261113-094131-18.png"
-    },
-    {
-      "id": "testing-20261113-093555-11",
-      "title": "Edge-case tests expose and fix bug",
-      "description": "AMI writes a buggy function, adds edge-case tests that reveal the bug, then fixes the function so all tests pass—demonstrating test-driven bug fixing.",
-      "date": "2026-11-13T09:37:23Z",
-      "categories": [
-        "Testing"
-      ],
-      "scene": "testing-20261113-093555-11",
-      "provider": "anthropic-vertex",
-      "model": "claude-haiku-4-5",
-      "cols": 100,
-      "rows": 30,
-      "duration": 227.5,
-      "cast": "testing-20261113-093555-11/testing-20261113-093555-11.cast",
-      "gif": "testing-20261113-093555-11/testing-20261113-093555-11.gif",
-      "thumb": "testing-20261113-093555-11/testing-20261113-093555-11.png",
-      "castUrl": "https://raw.githubusercontent.com/superinference/demos/main/testing-20261113-093555-11/testing-20261113-093555-11.cast",
-      "gifUrl": "https://raw.githubusercontent.com/superinference/demos/main/testing-20261113-093555-11/testing-20261113-093555-11.gif",
-      "thumbUrl": "https://raw.githubusercontent.com/superinference/demos/main/testing-20261113-093555-11/testing-20261113-093555-11.png"
-    },
-    {
-      "id": "refactoring-20261113-093556-5",
-      "title": "Refactor repetitive function into helpers",
-      "description": "AMI takes a single Python file with a long, repetitive function full of duplicated logic, refactors it into clean small helper functions, runs tests to prove behavior is identical, and prints a before/after summary.",
-      "date": "2026-11-13T09:36:55Z",
-      "categories": [
-        "Refactoring"
-      ],
-      "scene": "refactoring-20261113-093556-5",
-      "provider": "anthropic-vertex",
-      "model": "claude-haiku-4-5",
-      "cols": 100,
-      "rows": 30,
-      "duration": 317.8,
-      "cast": "refactoring-20261113-093556-5/refactoring-20261113-093556-5.cast",
-      "gif": "refactoring-20261113-093556-5/refactoring-20261113-093556-5.gif",
-      "thumb": "refactoring-20261113-093556-5/refactoring-20261113-093556-5.png",
-      "castUrl": "https://raw.githubusercontent.com/superinference/demos/main/refactoring-20261113-093556-5/refactoring-20261113-093556-5.cast",
-      "gifUrl": "https://raw.githubusercontent.com/superinference/demos/main/refactoring-20261113-093556-5/refactoring-20261113-093556-5.gif",
-      "thumbUrl": "https://raw.githubusercontent.com/superinference/demos/main/refactoring-20261113-093556-5/refactoring-20261113-093556-5.png"
-    },
-    {
-      "id": "refactoring-20261113-093556-6",
-      "title": "Refactor Nested Conditionals Data-Driven",
-      "description": "AMI creates a Python script with deeply nested if/elif/else blocks, refactors it into a clean dictionary-lookup approach, then runs both versions and diffs their output to prove behavior is unchanged.",
-      "date": "2026-11-13T09:36:54Z",
-      "categories": [
-        "Refactoring"
-      ],
-      "scene": "refactoring-20261113-093556-6",
-      "provider": "anthropic-vertex",
-      "model": "claude-opus-4-8",
-      "cols": 100,
-      "rows": 30,
-      "duration": 176.9,
-      "cast": "refactoring-20261113-093556-6/refactoring-20261113-093556-6.cast",
-      "gif": "refactoring-20261113-093556-6/refactoring-20261113-093556-6.gif",
-      "thumb": "refactoring-20261113-093556-6/refactoring-20261113-093556-6.png",
-      "castUrl": "https://raw.githubusercontent.com/superinference/demos/main/refactoring-20261113-093556-6/refactoring-20261113-093556-6.cast",
-      "gifUrl": "https://raw.githubusercontent.com/superinference/demos/main/refactoring-20261113-093556-6/refactoring-20261113-093556-6.gif",
-      "thumbUrl": "https://raw.githubusercontent.com/superinference/demos/main/refactoring-20261113-093556-6/refactoring-20261113-093556-6.png"
-    },
-    {
-      "id": "debugging-20261113-093555-2",
-      "title": "Fix type bug, verify fix",
-      "description": "AMI finds and fixes a subtle type-coercion bug in a Python function that silently returns wrong results, then verifies the fix by running test cases.",
-      "date": "2026-11-13T09:36:53Z",
-      "categories": [
-        "Debugging"
-      ],
-      "scene": "debugging-20261113-093555-2",
-      "provider": "anthropic-vertex",
-      "model": "claude-haiku-4-5",
-      "cols": 100,
-      "rows": 30,
-      "duration": 182.5,
-      "cast": "debugging-20261113-093555-2/debugging-20261113-093555-2.cast",
-      "gif": "debugging-20261113-093555-2/debugging-20261113-093555-2.gif",
-      "thumb": "debugging-20261113-093555-2/debugging-20261113-093555-2.png",
-      "castUrl": "https://raw.githubusercontent.com/superinference/demos/main/debugging-20261113-093555-2/debugging-20261113-093555-2.cast",
-      "gifUrl": "https://raw.githubusercontent.com/superinference/demos/main/debugging-20261113-093555-2/debugging-20261113-093555-2.gif",
-      "thumbUrl": "https://raw.githubusercontent.com/superinference/demos/main/debugging-20261113-093555-2/debugging-20261113-093555-2.png"
     },
     {
       "id": "debugging-20261113-093556-3",
@@ -3069,27 +1662,6 @@
       "thumbUrl": "https://raw.githubusercontent.com/superinference/demos/main/debugging-20261113-093556-3/debugging-20261113-093556-3.png"
     },
     {
-      "id": "algorithms-20261113-093556-15",
-      "title": "Dynamic Programming Coin Change",
-      "description": "AMI implements the classic coin-change dynamic-programming algorithm in Python, solves a worked example, and prints a step-by-step breakdown showing the minimum coins needed and which coins were chosen.",
-      "date": "2026-11-13T09:36:52Z",
-      "categories": [
-        "Algorithms"
-      ],
-      "scene": "algorithms-20261113-093556-15",
-      "provider": "anthropic-vertex",
-      "model": "claude-opus-4-8",
-      "cols": 100,
-      "rows": 30,
-      "duration": 80.1,
-      "cast": "algorithms-20261113-093556-15/algorithms-20261113-093556-15.cast",
-      "gif": "algorithms-20261113-093556-15/algorithms-20261113-093556-15.gif",
-      "thumb": "algorithms-20261113-093556-15/algorithms-20261113-093556-15.png",
-      "castUrl": "https://raw.githubusercontent.com/superinference/demos/main/algorithms-20261113-093556-15/algorithms-20261113-093556-15.cast",
-      "gifUrl": "https://raw.githubusercontent.com/superinference/demos/main/algorithms-20261113-093556-15/algorithms-20261113-093556-15.gif",
-      "thumbUrl": "https://raw.githubusercontent.com/superinference/demos/main/algorithms-20261113-093556-15/algorithms-20261113-093556-15.png"
-    },
-    {
       "id": "refactoring-20261113-093556-9",
       "title": "Serial vs Parallel Speedup",
       "description": "Creates a CPU-bound task (computing large checksums), runs it serially then in parallel with threads, and prints a side-by-side comparison proving both produce identical results while the parallel version is faster.",
@@ -3109,48 +1681,6 @@
       "castUrl": "https://raw.githubusercontent.com/superinference/demos/main/refactoring-20261113-093556-9/refactoring-20261113-093556-9.cast",
       "gifUrl": "https://raw.githubusercontent.com/superinference/demos/main/refactoring-20261113-093556-9/refactoring-20261113-093556-9.gif",
       "thumbUrl": "https://raw.githubusercontent.com/superinference/demos/main/refactoring-20261113-093556-9/refactoring-20261113-093556-9.png"
-    },
-    {
-      "id": "debugging-20261113-093554-0",
-      "title": "Fix Off-by-One Bug",
-      "description": "AMI creates a Python function with a subtle off-by-one error, discovers the bug by running tests, fixes it, and re-runs to prove correctness.",
-      "date": "2026-11-13T09:36:19Z",
-      "categories": [
-        "Debugging"
-      ],
-      "scene": "debugging-20261113-093554-0",
-      "provider": "anthropic-vertex",
-      "model": "claude-opus-4-8",
-      "cols": 100,
-      "rows": 30,
-      "duration": 148.6,
-      "cast": "debugging-20261113-093554-0/debugging-20261113-093554-0.cast",
-      "gif": "debugging-20261113-093554-0/debugging-20261113-093554-0.gif",
-      "thumb": "debugging-20261113-093554-0/debugging-20261113-093554-0.png",
-      "castUrl": "https://raw.githubusercontent.com/superinference/demos/main/debugging-20261113-093554-0/debugging-20261113-093554-0.cast",
-      "gifUrl": "https://raw.githubusercontent.com/superinference/demos/main/debugging-20261113-093554-0/debugging-20261113-093554-0.gif",
-      "thumbUrl": "https://raw.githubusercontent.com/superinference/demos/main/debugging-20261113-093554-0/debugging-20261113-093554-0.png"
-    },
-    {
-      "id": "algorithms-20261113-093556-14",
-      "title": "Graph Shortest Path Solver",
-      "description": "AMI writes a Dijkstra shortest-path solver from scratch, builds a small weighted graph, and prints the shortest path with its total cost.",
-      "date": "2026-11-13T09:36:18Z",
-      "categories": [
-        "Algorithms"
-      ],
-      "scene": "algorithms-20261113-093556-14",
-      "provider": "anthropic-vertex",
-      "model": "claude-haiku-4-5",
-      "cols": 100,
-      "rows": 30,
-      "duration": 88.9,
-      "cast": "algorithms-20261113-093556-14/algorithms-20261113-093556-14.cast",
-      "gif": "algorithms-20261113-093556-14/algorithms-20261113-093556-14.gif",
-      "thumb": "algorithms-20261113-093556-14/algorithms-20261113-093556-14.png",
-      "castUrl": "https://raw.githubusercontent.com/superinference/demos/main/algorithms-20261113-093556-14/algorithms-20261113-093556-14.cast",
-      "gifUrl": "https://raw.githubusercontent.com/superinference/demos/main/algorithms-20261113-093556-14/algorithms-20261113-093556-14.gif",
-      "thumbUrl": "https://raw.githubusercontent.com/superinference/demos/main/algorithms-20261113-093556-14/algorithms-20261113-093556-14.png"
     },
     {
       "id": "integrations-20261113-084042",
